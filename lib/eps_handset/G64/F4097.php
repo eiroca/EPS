@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4096.php");$this->ID=4097;$this->product_info_model_name="D502i";$this->display_resolution_height=90;?>

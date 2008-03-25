@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F283.php");$this->ID=4546;$this->product_info_model_name="Pocket PC";$this->product_info_brand_name="Microsoft";$this->product_info_unique=false;?>

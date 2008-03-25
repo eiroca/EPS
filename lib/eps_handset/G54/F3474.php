@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G54/F3472.php");$this->ID=3474;$this->product_info_model_name="e808";$this->object_download_video=false;$this->object_download_video_mp4=false;$this->object_download_video_sqcif=false;$this->display_max_image_width=132;$this->display_max_image_height=121;?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G49/F3156.php");$this->ID=4765;$this->object_download_screensaver=true;$this->object_download_screensaver_gif=true;?>

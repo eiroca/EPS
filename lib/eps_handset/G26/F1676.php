@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G26/F1673.php");$this->ID=1676;$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/V206_00.xml";$this->product_info_model_name="SGH-V206";?>

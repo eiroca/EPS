@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F64.php");$this->ID=65;$this->markup_html_wi_imode_html_1=true;$this->markup_html_wi_imode_compact_generic=true;$this->storage_max_deck_size=2397;$this->product_info_mobile_browser_version="3.3";?>

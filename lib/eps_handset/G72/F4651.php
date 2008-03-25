@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4449.php");$this->ID=4651;$this->product_info_model_name="SGH-I718";$this->object_download_wallpaper_colors=16;$this->object_download_screensaver=true;?>

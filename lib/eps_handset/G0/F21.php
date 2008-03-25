@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=21;$this->markup_xhtml_support_level=3;$this->drm_oma_v_1_0_combined_delivery=true;$this->drm_oma_v_1_0_separate_delivery=true;$this->product_info_mobile_browser_version=7;$this->product_info_can_skip_aligned_link_row=true;?>

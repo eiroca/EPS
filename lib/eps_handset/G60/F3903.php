@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4294.php");$this->ID=3903;$this->product_info_brand_name="Nokia";$this->product_info_model_name="770";$this->product_info_has_pointing_device=true;$this->product_info_is_wireless_device=true;$this->display_max_image_width=770;$this->display_max_image_height=225;?>

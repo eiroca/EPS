@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G21/F1370.php");$this->ID=4462;$this->product_info_model_name="SGH-X520X";$this->object_download_ringtone_mp3=true;$this->j2me_j2me_midp_2_0=true;?>

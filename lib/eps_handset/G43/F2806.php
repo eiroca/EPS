@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2578.php");$this->ID=2806;$this->product_info_model_name="T20";$this->display_resolution_width=101;$this->display_resolution_height=33;$this->display_max_image_width=101;$this->image_format_gif=true;$this->storage_max_deck_size=1600;$this->sms_ems=true;?>

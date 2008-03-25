@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4257.php");$this->ID=3634;$this->product_info_brand_name="Sanyo";$this->product_info_model_name="PLS3200";?>

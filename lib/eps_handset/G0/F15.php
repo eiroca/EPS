@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F14.php");$this->ID=15;$this->product_info_nokia_series=90;$this->product_info_nokia_edition=1;$this->streaming_streaming_video_acodec_aac=true;?>

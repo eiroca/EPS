@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2274.php");$this->ID=2280;$this->product_info_model_name="V360-Vodafone";$this->j2me_j2me_cldc_1_1=true;?>

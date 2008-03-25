@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G17/F1116.php");$this->ID=1120;$this->product_info_model_name="SK6R";$this->product_info_uaprof="http://communication-market.siemens.de/portal/UAProf/UAP.aspx?device=SK6R";?>

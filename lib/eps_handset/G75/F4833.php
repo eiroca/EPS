@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G74/F4760.php");$this->ID=4833;$this->product_info_mobile_browser_version="7.6";$this->product_info_model_name="Touch Cruise";$this->product_info_brand_name="HTC";$this->product_info_has_qwerty_keyboard=true;?>

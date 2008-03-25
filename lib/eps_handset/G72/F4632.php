@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G60/F3873.php");$this->ID=4632;$this->product_info_model_name="EL370";$this->object_download_wallpaper_preferred_height=120;$this->object_download_wallpaper_preferred_width=120;$this->object_download_ringtone_voices=64;$this->object_download_ringtone_midi_polyphonic=true;?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4641.php");$this->ID=4642;$this->product_info_model_name="SGH-C510L";$this->object_download_video_mp4=true;?>

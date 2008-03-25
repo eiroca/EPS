@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F67.php");$this->ID=68;$this->markup_multipart_support=true;$this->sound_format_midi_monophonic=true;$this->ajax_ajax_support_javascript=true;$this->product_info_mobile_browser_version="3.7";?>

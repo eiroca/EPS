@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F202.php");$this->ID=3866;$this->product_info_brand_name="Asus";$this->product_info_model_name="P505";$this->object_download_wallpaper_colors=12;?>

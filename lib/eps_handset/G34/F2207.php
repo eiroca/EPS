@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G34/F2199.php");$this->ID=2207;$this->product_info_model_name="V188";$this->mms_mms_midi_polyphonic_voices=24;$this->mms_mms_midi_polyphonic=true;$this->mms_mms_gif_animated=true;$this->object_download_picture_colors=16;$this->display_max_image_height=96;?>

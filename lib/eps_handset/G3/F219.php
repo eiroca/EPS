@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4567.php");$this->ID=219;$this->product_info_brand_name="HTC";$this->product_info_model_name="XDA Trion";$this->product_info_uaprof="http://www.htcmms.com.tw/gen/hermes-1.0.xml";?>

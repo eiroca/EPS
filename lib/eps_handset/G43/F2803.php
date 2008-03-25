@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2802.php");$this->ID=2803;$this->product_info_model_name="Z710c";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/Z710cR101.xml";$this->object_download_ringtone_voices=72;$this->object_download_wallpaper_colors=18;$this->bearer_max_data_rate=384;?>

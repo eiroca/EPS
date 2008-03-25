@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G32/F2089.php");$this->ID=4523;$this->product_info_model_name="E615";$this->object_download_screensaver=true;$this->object_download_wallpaper_preferred_width=128;$this->object_download_wallpaper_preferred_height=128;$this->object_download_wallpaper=true;?>

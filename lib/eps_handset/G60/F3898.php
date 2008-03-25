@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3898;$this->product_info_brand_name="Medion";$this->product_info_model_name="2860";$this->object_download_ringtone_mp3=true;$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_1=true;?>

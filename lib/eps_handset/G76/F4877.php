@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4507.php");$this->ID=4877;$this->product_info_model_name="U990";$this->object_download_wallpaper_preferred_width=240;$this->object_download_wallpaper_preferred_height=400;?>

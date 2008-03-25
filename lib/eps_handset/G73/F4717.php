@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3053.php");$this->ID=4717;$this->product_info_model_name="380";$this->product_info_uaprof="http://device.telusmobility.com/lg/LG380-0.rdf";?>

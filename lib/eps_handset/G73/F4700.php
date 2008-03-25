@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G29/F1903.php");$this->ID=4700;$this->product_info_model_name="KRZR K1c (Verizon Wireless)";$this->image_format_gif_animated=true;$this->object_download_wallpaper_jpg=true;$this->object_download_ringtone_midi_polyphonic=true;?>

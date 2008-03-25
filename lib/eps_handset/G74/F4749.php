@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F283.php");$this->ID=4749;$this->product_info_model_name="P6500";$this->product_info_uaprof="http://www.htcmms.com.tw/gen/sedna-1.0.xml";$this->product_info_brand_name="HTC";$this->display_max_image_width=237;$this->display_rows=16;$this->image_format_colors=262144;?>

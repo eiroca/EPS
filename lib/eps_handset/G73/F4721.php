@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F69.php");$this->ID=4721;$this->product_info_model_name="BlackBerry 8130 (Pearl)";$this->product_info_uaprof="http://www.blackberry.net/go/mobile/profiles/uaprof/8130/4.3.0.rdf";$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_1=true;?>

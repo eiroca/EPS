@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=291;$this->product_info_brand_name="Mitsubishi";$this->wml_ui_card_title_support=false;?>

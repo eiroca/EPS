@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2928.php");$this->ID=2929;$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/V630iR201-3G.xml";?>

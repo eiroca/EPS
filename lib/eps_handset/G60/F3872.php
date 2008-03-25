@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G60/F3871.php");$this->ID=3872;$this->product_info_brand_name="Danger";$this->product_info_model_name="Sidekick II";?>

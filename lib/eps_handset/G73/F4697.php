@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3053.php");$this->ID=4697;$this->product_info_model_name="MU500";$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-MU500.xml";?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3956.php");$this->ID=4897;$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="Q04C1";$this->product_info_model_name="Ice";$this->product_info_uaprof="http://www.curitel.com/UAProf/Ice.xml";?>

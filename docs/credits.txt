@@ -1,0 +1,125 @@
+rss - CHANGED - added a switch between fopen() and fsockopen() in order to use proxy
+smarty - UNCHANGED -
+Image_Toolbox - CHANGED - added WBMP support
+sajax - CHANGED - changed sajax_get_my_uri()
+
+
+/*************************************************
+Snoopy - the PHP net client
+Author: Monte Ohrt <monte@ispi.net>
+Copyright (c): 1999-2000 ispi, all rights reserved
+Version: 1.01
+
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+You may contact the author of Snoopy by e-mail at:
+monte@ispi.net
+
+Or, write to:
+Monte Ohrt
+CTO, ispi
+237 S. 70th suite 220
+Lincoln, NE 68510
+
+The latest version of Snoopy can be obtained from:
+http://snoopy.sourceforge.net/
+*************************************************/
+
+/**
+ * Image_Toolbox.class.php -- PHP image manipulation class
+ *
+ * Copyright (C) 2003 Martin Theimer <pappkamerad@decoded.net>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License <http://www.opensource.org/gpl-license.html>
+ * for more details..
+ *
+ * The latest version of Image_Toolbox can be obtained from:
+ * http://sourceforge.net/projects/image-toolbox
+ * http://www.phpclasses.org/image_toolbox
+ *
+ * @author Martin Theimer <pappkamerad@decoded.net>
+ * @copyright Copyright (C) 2003 Martin Theimer
+ * @version 1.1.0
+ * @package Image_Toolbox
+ * @link http://sourceforge.net/projects/image-toolbox
+ */
+
+/**
+ * Project:     Smarty: the PHP compiling template engine
+ * File:        Smarty.class.php
+ *
+ * This library is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public
+ * License as published by the Free Software Foundation; either
+ * version 2.1 of the License, or (at your option) any later version.
+ *
+ * This library is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this library; if not, write to the Free Software
+ * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ *
+ * For questions, help, comments, discussion, etc., please join the
+ * Smarty mailing list. Send a blank e-mail to
+ * smarty-general-subscribe@lists.php.net
+ *
+ * @link http://smarty.php.net/
+ * @copyright 2001-2005 New Digital Group, Inc.
+ * @author Monte Ohrt <monte at ohrt dot com>
+ * @author Andrei Zmievski <andrei@php.net>
+ * @package Smarty
+ * @version 2.6.19
+ */
+
+/*
+ * Project:     MagpieRSS: a simple RSS integration tool
+ * File:        rss_cache.inc, a simple, rolling(no GC), cache
+ *              for RSS objects, keyed on URL.
+ * Author:      Kellan Elliott-McCrea <kellan@protest.net>
+ * Version:     0.51
+ * License:     GPL
+ *
+ * The lastest version of MagpieRSS can be obtained from:
+ * http://magpierss.sourceforge.net
+ *
+ * For questions, help, comments, discussion, etc., please join the
+ * Magpie mailing list:
+ * http://lists.sourceforge.net/lists/listinfo/magpierss-general
+ *
+ */
+
+WELCOME TO SAJAX
+----------------
+
+Sajax is a cross-platform, cross-browser web scripting toolkit
+that makes it easy to expose functions in your code to JavaScript.
+
+For more information about Sajax, please see the homepage:
+
+    http://www.modernmethod.com/sajax/
+
+In this archive you will find a folder for each platform that is
+currently supported. Please see individual documentation in each
+folder for specific errata.

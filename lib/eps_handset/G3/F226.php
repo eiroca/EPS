@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F190.php");$this->ID=226;$this->product_info_brand_name="HTC";$this->product_info_model_name="8100";$this->display_resolution_width=240;$this->display_resolution_height=320;?>

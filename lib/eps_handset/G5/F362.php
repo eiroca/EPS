@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G5/F359.php");$this->ID=362;$this->product_info_model_name="3300 US";$this->image_format_png=false;$this->image_format_jpg=false;$this->sound_format_awb=true;$this->object_download_ringtone_awb=true;$this->bearer_max_data_rate=40;?>

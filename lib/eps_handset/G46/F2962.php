@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F2960.php");$this->ID=2962;$this->product_info_model_name="W710i";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/W710iR101.xml";$this->object_download_ringtone_voices=72;?>

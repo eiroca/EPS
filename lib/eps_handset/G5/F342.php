@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G5/F340.php");$this->ID=342;$this->product_info_model_name="3120b";$this->product_info_uaprof="http://nds.nokia.com/uaprof/N3120br100.xml";?>

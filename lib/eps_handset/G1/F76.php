@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F67.php");$this->ID=76;$this->product_info_model_name="BlackBerry 5810";$this->product_info_uaprof="http://www.blackberry.net/go/mobile/profiles/uaprof/5810/3.6.0.rdf";$this->display_columns=26;$this->storage_max_deck_size=32768;$this->bearer_max_data_rate=40;?>

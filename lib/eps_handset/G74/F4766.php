@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G5/F381.php");$this->ID=4766;$this->object_download_wallpaper_max_height=65;$this->object_download_wallpaper_jpg=true;$this->object_download_wallpaper_max_width=95;?>

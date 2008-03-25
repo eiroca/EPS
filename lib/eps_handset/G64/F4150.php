@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4120.php");$this->ID=4150;$this->product_info_model_name="P506iC";$this->display_columns=30;$this->display_rows=14;?>

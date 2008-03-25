@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2927.php");$this->ID=4661;$this->product_info_model_name="V640iv";$this->bearer_max_data_rate=1800;?>

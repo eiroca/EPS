@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G16/F1029.php");$this->ID=1032;$this->product_info_model_name="C61";$this->product_info_uaprof="http://communication-market.siemens.de/UAProf/C61_11.xml";$this->mms_mms_vcalendar=true;?>

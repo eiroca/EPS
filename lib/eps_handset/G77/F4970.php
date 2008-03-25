@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G77/F4969.php");$this->ID=4970;$this->product_info_model_name="N3000";$this->product_info_brand_name="Onda";$this->object_download_ringtone_amr=true;?>

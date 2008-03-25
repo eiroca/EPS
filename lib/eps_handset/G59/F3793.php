@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3793;$this->product_info_brand_name="Sendo";$this->product_info_model_name="S620";$this->wap_push_wap_push_support=true;$this->wap_push_connectionless_service_indication=true;?>

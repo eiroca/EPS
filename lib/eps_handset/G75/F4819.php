@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F1.php");$this->ID=4819;$this->product_info_can_skip_aligned_link_row=true;$this->product_info_model_name="Midlet";$this->product_info_brand_name="Reporo";$this->j2me_j2me_midp_1_0=true;$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_0=true;?>

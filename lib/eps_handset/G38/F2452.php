@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G38/F2450.php");$this->ID=2452;$this->product_info_model_name="myC5-2 Vodafone";$this->display_max_image_width=121;?>

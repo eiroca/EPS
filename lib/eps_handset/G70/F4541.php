@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G36/F2338.php");$this->ID=4541;$this->product_info_model_name="V875";$this->object_download_ringtone_voices=40;$this->object_download_ringtone_mp3=true;?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G37/F2398.php");$this->ID=2401;$this->product_info_model_name="my202x";$this->mms_receiver=true;$this->mms_sender=true;?>

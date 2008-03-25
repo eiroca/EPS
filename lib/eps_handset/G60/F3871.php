@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G60/F3870.php");$this->ID=3871;$this->product_info_model_name="Sidekick II";$this->product_info_brand_name="T-Mobile";?>

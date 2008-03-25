@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G34/F2228.php");$this->ID=2241;$this->product_info_model_name="RAZR V3r";$this->object_download_video_mp4=true;$this->object_download_ringtone_voices=40;?>

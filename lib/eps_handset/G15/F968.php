@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G15/F967.php");$this->ID=968;$this->sms_ems_variablesizedpictures=true;$this->sms_ems_imelody=true;?>

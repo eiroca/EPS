@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3921;$this->product_info_brand_name="SavaJe";$this->product_info_model_name="SavaJeOS";$this->markup_preferred_markup="wml_1_2";$this->markup_wml_1_2=true;?>

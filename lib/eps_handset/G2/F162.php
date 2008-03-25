@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F69.php");$this->ID=162;$this->product_info_model_name="BlackBerry 7780";$this->product_info_uaprof="http://www.blackberry.net/go/mobile/profiles/uaprof/7780/4.0.0.rdf";$this->object_download_oma_support=true;$this->bearer_max_data_rate=40;?>

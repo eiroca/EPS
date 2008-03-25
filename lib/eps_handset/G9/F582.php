@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F6.php");$this->ID=582;$this->display_columns=15;$this->wta_wta_voice_call=true;$this->wap_push_utf8_support=true;$this->wap_push_iso8859_support=true;$this->product_info_model_name="6310";$this->sms_callericon=true;$this->object_download_ringtone_voices=16;?>

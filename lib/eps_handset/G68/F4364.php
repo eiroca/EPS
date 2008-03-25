@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4363.php");$this->ID=4364;$this->product_info_model_name="OPWV-SDK/7.0.2.3";$this->chtml_ui_chtml_display_accesskey=true;$this->display_max_image_height=128;$this->display_max_image_width=113;$this->sound_format_midi_polyphonic=true;$this->bearer_max_data_rate=9;?>

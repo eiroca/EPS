@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G48/F3075.php");$this->ID=3077;$this->product_info_model_name="C1150";$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="2.0";$this->markup_xhtml_support_level=1;?>

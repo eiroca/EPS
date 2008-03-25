@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2583.php");$this->ID=2584;$this->xhtml_ui_xhtml_supports_file_upload=true;$this->xhtml_ui_xhtml_file_upload="supported";?>
