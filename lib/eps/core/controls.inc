@@ -179,7 +179,7 @@ class TPage {
     } else {
       // Parent Servizio
       $serviceID = $SERVICE->serviceID . "_parent";
-      $res = & getResourceById("TLink", $serviceID);
+      $res = &getResourceById("TLink", $serviceID);
       $this->register_link("channel", $res);
     }
   }
@@ -245,22 +245,24 @@ class TRender {
   function getCacheTemplateDir() {
     global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
     $subdir = $CONTEXT->renderClass;
-    return $CONFIG["path_cache_srv"] . "templates/" . $subdir;
+    return $CONFIG["path_cache_srv"] . "templates" . DIR_SEP. $subdir;
   }
   function getCachePageDir() {
     global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
     $subdir = $CONTEXT->renderClass;
-    return $CONFIG["path_cache_srv"] . "pages/" . $subdir;
+    return $CONFIG["path_cache_srv"] . "pages" . DIR_SEP. $subdir;
   }
   function getTemplateDir() {
     global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
     $subdir = $CONTEXT->renderClass;
-    $base1 = SRV_DIR . $SERVICE->namespace . "/" . $CONFIG["relpath_template"];
-    $base2 = "./" . $CONFIG["relpath_template"];
+    $base1 = SRV_DIR . $SERVICE->namespace . DIR_SEP . $CONFIG["relpath_template"];
+    $base2 = "." . DIR_SEP . $CONFIG["relpath_template"];
     $dirs = array (
-      $base1 . "/" . $subdir,
+      $base2 . DIR_SEP . $SERVICE->namespace . DIR_SEP . $subdir,
+      $base2 . DIR_SEP . $SERVICE->namespace,
+      $base1 . DIR_SEP . $subdir,
       $base1,
-      $base2 . "/" . $subdir,
+      $base2 . DIR_SEP . $subdir,
       $base2
     );
     return $dirs;

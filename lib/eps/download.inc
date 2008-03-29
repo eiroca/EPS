@@ -66,6 +66,17 @@ function process_jad($id, &$fn) {
   echo $out;
   return $size;
 }
+function process_cer($id, &$fn) {
+  $size = filesize($fn);
+  $bn = basename($fn);
+  header('Content-Description: eIrOcA Certificate');
+  header('Content-Type: application/x-x509-ca-cert');
+  header("Content-Disposition: attachement; filename=$bn");
+  header("Content-Length: $size");
+  $c = file_get_contents($fn);
+  echo $c;
+  return $size;
+}
 function process_jar(&$fn) {
   $size = filesize($fn);
   header("Content-Description: eIrOcA download");
@@ -87,6 +98,7 @@ function decodeRequest() {
   global $_SERVER;
   global $agent;
   global $id;
+  global $file;
   global $type;
   global $action;
   global $sessionName;
@@ -94,6 +106,7 @@ function decodeRequest() {
   global $category;
   $agent = $_SERVER["HTTP_USER_AGENT"];
   $id = urlencode($_REQUEST["n"]);
+  $file = urlencode($_REQUEST["f"]);
   $type = urlencode($_REQUEST["t"]);
   $action = urlencode($_REQUEST["a"]);
   $sessionName = urlencode($_REQUEST["s"]);
@@ -140,6 +153,7 @@ function load_metadata() {
 function serveRequest() {
   global $agent;
   global $id;
+  global $file;
   global $type;
   global $action;
   global $sessionName;
@@ -148,10 +162,15 @@ function serveRequest() {
   global $resource;
   global $SID;
   global $SIZE;
-  $res = "file_$id";
-  $resource = $configuration[$res]["path"] . $configuration[$res]["basename"];
-  if ($resource != "") {
-    $resource = $resource . "." . $type;
+  if ($file){
+    $resource = YADS_DATA . DIR_SEP . $file;
+  }
+  else {
+    $res = "file_$id";
+    $resource = $configuration[$res]["path"] . $configuration[$res]["basename"];
+    if ($resource != "") {
+      $resource = $resource . "." . $type;
+    }
   }
   session_name($sessionName);
   session_start();
@@ -163,6 +182,9 @@ function serveRequest() {
   }
   else if ($action == "I") {
     $SIZE = process_jad($id, $resource);
+  }
+  else if ($action == "C") {
+    $SIZE = process_cer($id, $resource);
   }
   else if ($action == "D") {
     $SIZE = process_jar($resource);
