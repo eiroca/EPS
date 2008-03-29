@@ -23,7 +23,7 @@ class Page extends DSPage {
       $this->files = explode(" ", $this->conf["category_$this->cid"]["files"]);
       foreach ($this->files as $id) {
         $def["caption"] = $this->conf["file_$id"]["caption"];
-        $def["url"] = "#download#?n=$id&amp;d=".$this->dir;
+        $def["url"] = "#download#?n=$id&amp;c=".$this->dir;
         $this->register_link("_DS$id", new TLink($def));
       }
       $def["caption"]="Download";
