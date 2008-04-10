@@ -86,7 +86,7 @@ class TContext {
   }
   function touchCounter($name) {
     require_once (EPS_CORE_DIR . "context_utils.inc");
-    _utils_touchCounter($name);
+    return _utils_touchCounter($name);
   }
   function errorTrace($msg) {
     require_once (EPS_CORE_DIR . "context_utils.inc");
