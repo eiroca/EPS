@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=3074;$this->product_info_brand_name="LG";$this->product_info_model_name="C686";$this->display_resolution_height=128;$this->display_resolution_width=160;$this->display_max_image_height=140;$this->display_max_image_width=160;$this->image_format_colors=65536;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G48/F3072.php");$this->ID=3074;$this->bearer_max_data_rate=40;?>

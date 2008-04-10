@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4120.php");$this->ID=4127;$this->product_info_model_name="P504i";$this->display_rows=9;$this->display_resolution_width=132;$this->display_resolution_height=144;$this->display_max_image_width=132;$this->display_max_image_height=108;$this->j2me_j2me_storage_size=1500;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4126.php");$this->ID=4127;$this->bearer_max_data_rate=9;?>

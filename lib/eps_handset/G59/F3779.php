@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=3779;$this->product_info_brand_name="DBTEL";$this->product_info_model_name="6668";$this->j2me_j2me_midp_1_0=true;$this->j2me_j2me_cldc_1_0=true;$this->object_download_ringtone_voices=16;$this->object_download_wallpaper_gif=true;$this->object_download_ringtone_midi_polyphonic=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G59/F3776.php");$this->ID=3779;$this->bearer_max_data_rate=40;?>

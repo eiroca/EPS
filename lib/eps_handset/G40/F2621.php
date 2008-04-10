@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2620.php");$this->ID=2621;$this->product_info_model_name="K300i";$this->display_max_image_width=123;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2620.php");$this->ID=2621;$this->bearer_max_data_rate=384;?>

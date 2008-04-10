@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4319.php");$this->ID=4323;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4320.php");$this->ID=4323;$this->product_info_brand_name="Palm";$this->product_info_model_name="Treo 680";$this->product_info_uaprof="http://downloads.palm.com/profiles/Blazer453-ROW.rdf";$this->display_max_image_width=307;?>

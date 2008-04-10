@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G77/F4981.php");$this->ID=4975;$this->product_info_model_name="N7010";$this->product_info_uaprof="http://www.ondacommunication.com/ua/N7010.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G49/F3190.php");$this->ID=4975;$this->bearer_max_data_rate=40;?>

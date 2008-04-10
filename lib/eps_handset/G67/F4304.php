@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4303.php");$this->ID=4304;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4297.php");$this->ID=4304;$this->product_info_brand_name="Sony";$this->product_info_model_name="PEG-TH55";$this->display_resolution_width=320;$this->display_resolution_height=480;$this->display_max_image_width=320;$this->display_max_image_height=360;$this->image_format_colors=65536;?>

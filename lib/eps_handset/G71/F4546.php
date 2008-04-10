@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F283.php");$this->ID=4546;$this->product_info_model_name="Pocket PC";$this->product_info_brand_name="Microsoft";$this->product_info_unique=false;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G51/F3313.php");$this->ID=4546;$this->product_info_model_name="MG280c";$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-MG280c.xml";$this->object_download_ringtone_voices=16;?>

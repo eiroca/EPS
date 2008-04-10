@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4167.php");$this->ID=4169;$this->display_columns=30;$this->display_rows=15;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4160.php");$this->ID=4169;$this->product_info_model_name="SO504i";$this->display_resolution_height=112;$this->display_max_image_width=120;$this->display_max_image_height=84;?>

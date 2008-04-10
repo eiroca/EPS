@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2930.php");$this->ID=2932;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2931.php");$this->ID=2932;$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/T618R401.xml";$this->image_format_bmp=true;$this->image_format_png=true;$this->mms_mms_bmp=true;$this->mms_mms_png=true;$this->bearer_max_data_rate=40;?>

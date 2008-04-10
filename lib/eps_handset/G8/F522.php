@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F520.php");$this->ID=522;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F521.php");$this->ID=522;$this->product_info_model_name="6215i (Verizon Wireless)";$this->drm_oma_v_1_0_forwardlock=true;?>

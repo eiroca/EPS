@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4143.php");$this->ID=4144;$this->display_columns=18;$this->display_rows=8;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4142.php");$this->ID=4144;$this->image_format_colors=256;?>

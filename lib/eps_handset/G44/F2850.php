@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2849.php");$this->ID=2850;$this->product_info_model_name="T290a";$this->object_download_ringtone_midi_monophonic=true;$this->object_download_ringtone_midi_polyphonic=true;$this->object_download_screensaver_colors=12;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2849.php");$this->ID=2850;$this->bearer_max_data_rate=40;?>

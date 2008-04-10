@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G39/F2555.php");$this->ID=2556;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G39/F2551.php");$this->ID=2556;$this->product_info_model_name="myX-5-2T";$this->product_info_uaprof="http://extranet.sagem.com/UAProfile/891391.xml";$this->object_download_wallpaper_preferred_height=144;$this->object_download_wallpaper_preferred_width=176;$this->object_download_ringtone_voices=16;?>

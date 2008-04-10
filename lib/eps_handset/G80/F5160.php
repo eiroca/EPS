@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G80/F5159.php");$this->ID=5160;$this->product_info_model_name="N5050";$this->product_info_uaprof="http://www.ondacommunication.com/ua/N5050.xml";$this->bearer_max_data_rate=384;?>

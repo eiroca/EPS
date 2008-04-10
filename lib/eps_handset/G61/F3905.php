@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F283.php");$this->ID=3905;$this->product_info_brand_name="Qtek";$this->product_info_model_name="S200";$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_1=true;$this->object_download_ringtone_mp3=true;$this->object_download_ringtone_amr=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3905;$this->product_info_brand_name="Capitel";$this->product_info_model_name="F600";?>

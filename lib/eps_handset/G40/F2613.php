@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2610.php");$this->ID=2613;$this->product_info_model_name="J230c";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2612.php");$this->ID=2613;$this->image_format_svgt_1_1=true;$this->markup_xhtml_support_level=3;$this->xhtml_ui_xhtmlmp_preferred_mime_type="application/xhtml+xml";?>

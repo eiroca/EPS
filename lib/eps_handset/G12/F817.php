@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F5.php");$this->ID=817;$this->product_info_model_name="2220";$this->sms_sckl_ringtone=true;$this->sms_sckl_groupgraphic=true;$this->object_download_wallpaper_gif=true;$this->display_max_image_height=36;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G12/F805.php");$this->ID=817;$this->product_info_model_name="2285";$this->object_download_wallpaper_gif=true;?>

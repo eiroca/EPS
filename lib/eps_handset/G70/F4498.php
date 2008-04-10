@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4497.php");$this->ID=4498;$this->product_info_model_name="MG100c";$this->markup_preferred_markup="html_wi_w3_xhtmlbasic";$this->object_download_wallpaper_png=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4497.php");$this->ID=4498;$this->bearer_max_data_rate=384;?>

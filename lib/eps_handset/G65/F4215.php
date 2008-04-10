@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4214.php");$this->ID=4215;$this->storage_max_deck_size=20480;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4211.php");$this->ID=4215;$this->product_info_model_name="Simulator II";$this->wml_ui_wml_make_phone_call_string="none";$this->chtml_ui_chtml_make_phone_call_string="none";$this->sound_format_midi_polyphonic=false;$this->sound_format_voices=0;?>

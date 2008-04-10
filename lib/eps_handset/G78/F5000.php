@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=5000;$this->product_info_model_name="1450M (MetroPCS)";$this->product_info_brand_name="UTStarcom";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4912.php");$this->ID=5000;$this->product_info_model_name="DopodM700";$this->bearer_max_data_rate=40;?>

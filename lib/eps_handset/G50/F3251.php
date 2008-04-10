@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G50/F3250.php");$this->ID=3251;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3251;$this->product_info_brand_name="LG";$this->product_info_model_name="G5500";$this->j2me_j2me_midp_1_0=true;$this->j2me_j2me_cldc_1_0=true;?>

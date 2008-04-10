@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G27/F1738.php");$this->ID=1739;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G27/F1732.php");$this->ID=1739;$this->product_info_model_name="SGH-Z105U";$this->bearer_max_data_rate=40;$this->object_download_video_wmv=false;$this->object_download_video_mp4=false;$this->object_download_video_3gpp=true;$this->object_download_video=true;$this->object_download_video_3gpp2=true;?>

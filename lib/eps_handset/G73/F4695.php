@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2248.php");$this->ID=4695;$this->product_info_model_name="V325 (Verizon Wireless)";$this->image_format_gif_animated=true;$this->object_download_wallpaper_jpg=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1255.php");$this->ID=4695;$this->product_info_model_name="SGH-E256";$this->object_download_wallpaper_jpg=true;$this->object_download_screensaver=true;?>

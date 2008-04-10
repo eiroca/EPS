@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G42/F2712.php");$this->ID=2713;$this->product_info_model_name="K750c";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/K750cR101.xml";$this->storage_max_deck_size=45000;$this->j2me_j2me_cldc_1_1=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G42/F2712.php");$this->ID=2713;$this->storage_max_deck_size=102400;?>

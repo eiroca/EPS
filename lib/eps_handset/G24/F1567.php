@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G24/F1563.php");$this->ID=1567;$this->product_info_model_name="SGH-E800N";$this->display_max_image_width=120;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G24/F1565.php");$this->ID=1567;$this->bearer_max_data_rate=40;?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4608.php");$this->ID=5067;$this->product_info_mobile_browser_version="7.6";$this->product_info_model_name="M700";$this->product_info_brand_name="SPV";?>

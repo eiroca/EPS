@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F169.php");$this->ID=4999;$this->product_info_uaprof="http://www.blackberry.net/go/mobile/profiles/uaprof/8700/4.2.1.rdf";$this->mms_mms_max_height=1024;$this->mms_mms_max_width=1280;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4912.php");$this->ID=4999;$this->bearer_max_data_rate=40;?>

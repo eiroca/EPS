@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G22/F1444.php");$this->ID=1445;$this->product_info_model_name="SCH-A610 (Verizon Wireless)";$this->object_download_ringtone_qcelp=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G22/F1444.php");$this->ID=1445;$this->bearer_max_data_rate=9;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4124.php");$this->ID=4125;$this->j2me_j2me_storage_size=544;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4125;$this->product_info_brand_name="SmartTrust";$this->product_info_model_name="WIB";?>

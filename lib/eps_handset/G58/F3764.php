@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3764;$this->product_info_brand_name="KDDI";$this->product_info_model_name="A1305SA";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G58/F3763.php");$this->ID=3764;$this->bearer_max_data_rate=40;?>

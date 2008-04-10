@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G28/F1836.php");$this->ID=1839;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G28/F1832.php");$this->ID=1839;$this->product_info_model_name="One Touch 301";$this->wml_ui_proportional_font=false;$this->display_columns=15;$this->object_download_ringtone_voices=16;$this->object_download_wallpaper_gif=true;$this->object_download_ringtone_midi_polyphonic=true;?>

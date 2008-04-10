@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G9/F587.php");$this->ID=588;$this->product_info_model_name="6315i (Verizon Wireless)";$this->drm_oma_v_1_0_forwardlock=true;$this->object_download_ringtone_qcelp=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G9/F587.php");$this->ID=588;$this->bearer_max_data_rate=40;?>

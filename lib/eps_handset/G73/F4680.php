@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G33/F2133.php");$this->ID=4680;$this->product_info_model_name="KRZR K1v";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G5/F377.php");$this->ID=4680;$this->object_download_video_acodec_amr=true;$this->object_download_video_vcodec_h264="10 1b 11 12";$this->object_download_video_acodec_aac=true;$this->object_download_video_vcodec_h263_3=true;?>

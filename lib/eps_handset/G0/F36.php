@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F35.php");$this->ID=36;$this->product_info_model_name="CDM-8900 (Verizon Wireless)";$this->drm_oma_v_1_0_forwardlock=true;$this->object_download_video_3gpp2=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F35.php");$this->ID=36;$this->product_info_model_name="CDM-8900 (Verizon Wireless)";$this->drm_oma_v_1_0_forwardlock=true;$this->object_download_video_3gpp2=true;$this->object_download_video=true;?>

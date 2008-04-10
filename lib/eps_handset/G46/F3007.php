@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F3006.php");$this->ID=3007;$this->product_info_model_name="Z500a";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/Z500aR101.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F3005.php");$this->ID=3007;$this->bearer_max_data_rate=200;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2778.php");$this->ID=4477;$this->product_info_model_name="W200iv";$this->storage_max_deck_size=45000;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G23/F1525.php");$this->ID=4477;$this->object_download_wallpaper_preferred_height=160;$this->object_download_wallpaper_preferred_width=128;$this->object_download_wallpaper_colors=16;?>

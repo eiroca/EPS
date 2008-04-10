@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G18/F1197.php");$this->ID=1198;$this->product_info_model_name="SCH-A970 (Verizon Wireless)";$this->object_download_directdownload_support=false;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G18/F1197.php");$this->ID=1198;$this->bearer_max_data_rate=9;?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F190.php");$this->ID=5281;$this->product_info_model_name="838Pro";$this->product_info_brand_name="Dopod";?>

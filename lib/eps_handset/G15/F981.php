@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=981;$this->product_info_brand_name="Siemens";$this->product_info_model_name="SLIN";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G15/F980.php");$this->ID=981;$this->markup_xhtml_support_level=2;$this->markup_preferred_markup="html_wi_oma_xhtmlmp_1_0";$this->markup_html_wi_oma_xhtmlmp_1_0=true;$this->product_info_mobile_browser_version="6.2";?>

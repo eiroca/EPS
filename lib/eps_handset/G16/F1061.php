@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F19.php");$this->ID=1061;$this->product_info_brand_name="Siemens";$this->product_info_model_name="Z60";$this->j2me_j2me_midp_1_0=true;$this->j2me_j2me_cldc_1_0=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G16/F1056.php");$this->ID=1061;$this->product_info_model_name="MC6C";$this->product_info_uaprof="http://communication-market.siemens.de/UAProf/MC6C_07.xml";?>

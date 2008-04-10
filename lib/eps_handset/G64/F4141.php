@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4130.php");$this->ID=4141;$this->product_info_model_name="SH505i";$this->j2me_j2me_storage_size=1697;$this->display_columns=24;$this->display_rows=12;$this->display_resolution_height=252;$this->display_max_image_width=240;$this->display_max_image_height=189;$this->sound_format_voices=64;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4139.php");$this->ID=4141;$this->storage_max_deck_size=10240;?>

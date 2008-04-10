@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4163.php");$this->ID=4171;$this->product_info_model_name="901i Series";$this->flash_lite_flash_lite_version="1_1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4170.php");$this->ID=4171;$this->product_info_model_name="D505i";$this->j2me_j2me_storage_size=2048;$this->j2me_j2me_screen_width=270;$this->display_max_image_width=240;$this->display_max_image_height=202;?>

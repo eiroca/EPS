@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4469.php");$this->ID=2703;$this->product_info_model_name="S600";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G42/F2701.php");$this->ID=2703;$this->product_info_model_name="K608i";$this->j2me_j2me_cldc_1_1=true;$this->streaming_streaming_video_vcodec_mpeg4=true;$this->streaming_streaming_mp4=true;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4163.php");$this->ID=4158;$this->product_info_model_name="700i Series";$this->sound_format_aac=true;$this->flash_lite_flash_lite_version="1_1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4152.php");$this->ID=4158;$this->product_info_model_name="SO503i";$this->image_format_colors=65536;$this->j2me_j2me_storage_size=350;$this->display_max_image_width=120;$this->display_max_image_height=97;?>

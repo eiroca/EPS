@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F4.php");$this->ID=312;$this->image_format_gif=true;$this->image_format_gif_animated=true;$this->markup_html_wi_w3_xhtmlbasic=true;$this->xhtml_ui_xhtml_table_support=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=312;$this->product_info_brand_name="Mitsubishi";$this->product_info_model_name="M800";$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_1=true;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4513.php");$this->ID=4710;$this->product_info_model_name="VX-8600 (Verizon Wireless)";$this->image_format_gif_animated=true;$this->object_download_wallpaper_jpg=true;$this->object_download_ringtone_midi_polyphonic=true;$this->object_download_ringtone_mp3=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3014.php");$this->ID=4710;$this->bearer_max_data_rate=384;?>

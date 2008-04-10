@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4122.php");$this->ID=4123;$this->mms_built_in_camera=true;$this->j2me_j2me_storage_size=1500;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4123;$this->product_info_brand_name="Vitelcom";$this->product_info_model_name="TSM500";?>

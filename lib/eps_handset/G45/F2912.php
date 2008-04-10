@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2906.php");$this->ID=2912;$this->j2me_j2me_wmapi_1_0=true;$this->product_info_model_name="T637";$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2903.php");$this->ID=2912;$this->bearer_max_data_rate=40;?>

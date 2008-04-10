@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4376;$this->product_info_brand_name="Handspring";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G10/F700.php");$this->ID=4376;$this->product_info_model_name="Opera for 6680";$this->bearer_max_data_rate=200;?>

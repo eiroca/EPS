@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4294.php");$this->ID=3902;$this->product_info_is_wireless_device=false;$this->display_max_image_width=770;$this->display_max_image_height=225;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F202.php");$this->ID=3902;$this->product_info_brand_name="Asus";$this->product_info_model_name="P505";$this->object_download_wallpaper_colors=12;?>
