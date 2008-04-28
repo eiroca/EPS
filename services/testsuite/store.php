@@ -6,8 +6,13 @@
   $rr = trim($CONTEXT->touchCounter("req"));
   $fname = $CONFIG["path_log"] . (int)$rr . ".txt";
   $f = fopen($fname, "w+");
-  foreach($_REQUEST as $name => $value) {
-    fwrite($f, $name . "=" . $value . "\n");
+  if ($_REQUEST["_P"] != "") {
+    foreach($_REQUEST as $name => $value) {
+      fwrite($f, $name . "=" . $value . "\n");
+    }
+  }
+  else {
+    fwrite($f, $data);
   }
   fclose($f);
 ?>
