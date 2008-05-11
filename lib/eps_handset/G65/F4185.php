@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4183.php");$this->ID=4185;$this->j2me_j2me_storage_size=2048;$this->display_columns=20;$this->display_rows=10;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F17.php");$this->ID=4185;$this->storage_max_deck_size=2984;?>

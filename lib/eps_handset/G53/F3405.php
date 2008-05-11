@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3402.php");$this->ID=3405;$this->product_info_model_name="U880";$this->object_download_wallpaper_preferred_height=220;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3403.php");$this->ID=3405;$this->bearer_max_data_rate=384;?>

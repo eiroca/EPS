@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2894.php");$this->ID=2897;$this->product_info_model_name="T312";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2895.php");$this->ID=2897;$this->product_info_model_name="T290a";$this->object_download_ringtone_midi_monophonic=true;$this->object_download_ringtone_midi_polyphonic=true;$this->object_download_screensaver_colors=12;?>

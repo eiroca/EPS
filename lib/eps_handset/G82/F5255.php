@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G82/F5254.php");$this->ID=5255;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G82/F5254.php");$this->ID=5255;$this->product_info_model_name="N2020";$this->object_download_ringtone_voices=32;?>

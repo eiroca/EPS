@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G21/F1385.php");$this->ID=4504;$this->product_info_model_name="SGH-X520X";$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/x520_10.xml";$this->object_download_ringtone_mp3=true;$this->j2me_j2me_midp_2_0=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4503.php");$this->ID=4504;$this->product_info_model_name="WinWAP Pro 3.1";$this->image_format_png=false;$this->image_format_greyscale=true;?>

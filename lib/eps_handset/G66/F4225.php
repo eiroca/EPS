@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4217.php");$this->ID=4225;$this->markup_xhtml_support_level=2;$this->markup_preferred_markup="html_wi_imode_html_3";$this->markup_html_wi_imode_html_3=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4224.php");$this->ID=4225;$this->storage_max_deck_size=10240;?>

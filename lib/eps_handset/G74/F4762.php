@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G52/F3365.php");$this->ID=4762;$this->product_info_model_name="VX-9900 (Verizon Wireless)";$this->image_format_gif_animated=true;$this->object_download_wallpaper_jpg=true;$this->object_download_ringtone_midi_polyphonic=true;$this->object_download_ringtone_mp3=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G74/F4761.php");$this->ID=4762;$this->bearer_max_data_rate=200;?>

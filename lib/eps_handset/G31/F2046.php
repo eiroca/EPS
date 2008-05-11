@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G31/F2047.php");$this->ID=2046;$this->product_info_model_name="C381";$this->object_download_wallpaper=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G31/F2045.php");$this->ID=2046;$this->product_info_model_name="C357";$this->product_info_brand_name="Motorola";?>

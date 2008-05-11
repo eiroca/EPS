@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=314;$this->product_info_brand_name="Sony";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=314;$this->product_info_brand_name="Sony";$this->j2me_j2me_clear_key_code=-8;$this->j2me_j2me_right_softkey_code=-7;$this->j2me_j2me_left_softkey_code=-6;$this->j2me_j2me_return_key_code=-11;$this->j2me_j2me_select_key_code="";$this->j2me_j2me_middle_softkey_code=-5;?>

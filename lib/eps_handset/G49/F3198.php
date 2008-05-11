@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G49/F3197.php");$this->ID=3198;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G49/F3195.php");$this->ID=3198;$this->product_info_model_name="Chocolate (Canada)";$this->bearer_max_data_rate=40;?>

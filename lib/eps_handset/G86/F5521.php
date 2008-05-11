@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4615.php");$this->ID=5521;$this->display_rows=16;$this->image_format_colors=262144;$this->storage_max_deck_size=45000;$this->mms_mms_max_height=1224;$this->mms_mms_max_size=614400;$this->mms_mms_max_width=1632;?>

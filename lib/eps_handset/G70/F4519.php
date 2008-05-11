@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2809.php");$this->ID=4519;$this->product_info_model_name="W200iv";$this->storage_max_deck_size=45000;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4519;$this->display_resolution_width=176;$this->display_resolution_height=220;$this->product_info_model_name="8380";$this->product_info_brand_name="Mio";?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G14/F907.php");$this->ID=5110;$this->bearer_max_data_rate=384;$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G74/F4792.php");$this->ID=5110;$this->product_info_model_name="SGH-B460";$this->object_download_oma_support=true;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3014.php");$this->ID=4514;$this->product_info_model_name="W880iv";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/W880iR201.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4514;$this->product_info_is_wireless_device=false;$this->product_info_device_claims_web_support=true;?>

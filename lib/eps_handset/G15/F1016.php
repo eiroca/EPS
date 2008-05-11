@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G15/F1015.php");$this->ID=1016;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G15/F1012.php");$this->ID=1016;$this->product_info_model_name="SL5C";$this->product_info_uaprof="http://communication-market.siemens.de/UAProf/SL5C_09.xml";?>

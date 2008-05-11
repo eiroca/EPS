@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F528.php");$this->ID=4842;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G39/F2508.php");$this->ID=4842;$this->product_info_brand_name="Gradiente";$this->product_info_model_name="Concept GX-2";$this->object_download_ringtone_voices=16;$this->object_download_wallpaper_colors=12;?>

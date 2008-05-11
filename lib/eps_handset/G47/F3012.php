@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3010.php");$this->ID=3012;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3011.php");$this->ID=3012;$this->product_info_model_name="W800c";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/W800cR101.xml";$this->j2me_j2me_cldc_1_1=true;?>

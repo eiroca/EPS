@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4225.php");$this->ID=4232;$this->product_info_brand_name="Toshiba";$this->product_info_model_name="TS222i";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4231.php");$this->ID=4232;$this->storage_max_deck_size=10240;?>

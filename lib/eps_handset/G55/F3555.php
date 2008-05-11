@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=3555;$this->product_info_brand_name="Panasonic";$this->product_info_model_name="GD35";$this->wml_ui_image_as_link_support=true;$this->display_resolution_width=96;$this->display_resolution_height=48;$this->display_columns=16;$this->display_rows=5;$this->wta_wta_voice_call=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G55/F3554.php");$this->ID=3555;$this->bearer_max_data_rate=40;?>

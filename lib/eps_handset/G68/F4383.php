@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4378.php");$this->ID=4383;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4383;$this->product_info_model_name="KM63";$this->product_info_uaprof="http://www.okwap.com.cn/uaprof/km63/km63profile.xml";$this->product_info_brand_name="IAC OKWAP";?>

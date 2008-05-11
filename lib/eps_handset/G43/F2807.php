@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2803.php");$this->ID=2807;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2798.php");$this->ID=2807;$this->product_info_model_name="P910";$this->j2me_j2me_heap_size=67108864;$this->j2me_j2me_bits_per_pixel=18;$this->j2me_j2me_wav=true;$this->j2me_j2me_au=true;$this->j2me_j2me_left_softkey_code=6;$this->j2me_j2me_right_softkey_code=7;$this->bearer_max_data_rate=40;?>

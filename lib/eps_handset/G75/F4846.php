@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2620.php");$this->ID=4846;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=4846;$this->product_info_model_name="V75";$this->product_info_uaprof="http://uaprofile.asus.com/uaprof/ASUS-V75_UAProf.xml";$this->product_info_brand_name="Asus";$this->object_download_wallpaper_jpg=true;$this->object_download_screensaver_gif=true;?>

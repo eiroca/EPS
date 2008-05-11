@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5110.php");$this->ID=5115;$this->bearer_max_data_rate=384;$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G77/F4956.php");$this->ID=5115;$this->ajax_ajax_xhr_type="standard";$this->ajax_ajax_support_getelementbyid=true;$this->ajax_ajax_support_full_dom=true;$this->ajax_ajax_support_javascript=true;$this->ajax_ajax_manipulate_css=true;$this->ajax_ajax_support_inner_html=true;?>

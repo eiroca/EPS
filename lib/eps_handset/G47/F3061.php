@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3058.php");$this->ID=3061;$this->object_download_oma_support=true;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3058.php");$this->ID=3061;$this->bearer_max_data_rate=40;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G7/F479.php");$this->ID=4441;$this->product_info_model_name="6102i";$this->object_download_video_wmv=false;$this->object_download_video_mp4=true;$this->object_download_video_3gpp=true;$this->object_download_video=true;$this->object_download_video_3gpp2=false;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4439.php");$this->ID=4441;$this->bearer_max_data_rate=40;?>

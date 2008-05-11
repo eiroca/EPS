@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4225.php");$this->ID=4902;$this->product_info_model_name="my411Xi";$this->product_info_brand_name="Sagem";$this->display_max_image_width=128;$this->display_resolution_height=160;$this->display_resolution_width=128;$this->display_max_image_height=128;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G10/F698.php");$this->ID=4902;$this->bearer_max_data_rate=40;?>

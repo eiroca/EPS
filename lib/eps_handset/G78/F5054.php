@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F1.php");$this->ID=5054;$this->product_info_model_name="Tokyo";$this->product_info_uaprof="http://www.modelabs.com/uaprofs/Orange-Tokyo.xml";$this->product_info_brand_name="Orange";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4626.php");$this->ID=5054;$this->bearer_max_data_rate=40;?>

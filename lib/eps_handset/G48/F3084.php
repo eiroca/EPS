@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F314.php");$this->ID=3084;$this->product_info_model_name="CMD-J7/J70";$this->display_resolution_width=96;$this->display_resolution_height=92;$this->display_max_image_height=69;$this->image_format_greyscale=true;$this->image_format_colors=4;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=3084;$this->product_info_brand_name="Ericsson";$this->product_info_model_name="R280";?>

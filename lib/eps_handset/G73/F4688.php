@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1237.php");$this->ID=4688;$this->product_info_model_name="SGH-C510";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4370.php");$this->ID=4688;$this->product_info_model_name="N500iS";$this->sound_format_imelody=true;$this->object_download_ringtone_imelody=true;$this->object_download_ringtone_3gpp=true;$this->object_download_video_preferred_height=144;$this->object_download_video_preferred_width=176;?>

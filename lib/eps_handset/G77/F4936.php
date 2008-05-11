@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G14/F907.php");$this->ID=4936;$this->product_info_uaprof="http://nds.nokia.com/uaprof/NN81-3r100.xml";$this->bearer_max_data_rate=384;$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G37/F2388.php");$this->ID=4936;$this->bearer_max_data_rate=384;?>

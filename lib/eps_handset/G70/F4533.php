@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4531.php");$this->ID=4533;$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-KU990-VDF.xml";$this->bearer_max_data_rate=1800;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G5/F320.php");$this->ID=4533;$this->product_info_model_name="2310";$this->object_download_wallpaper_preferred_height=68;$this->object_download_wallpaper_preferred_width=96;$this->object_download_ringtone_voices=4;?>

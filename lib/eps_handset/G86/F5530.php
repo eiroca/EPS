@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4423.php");$this->ID=5530;$this->product_info_mobile_browser="Palm";$this->product_info_has_qwerty_keyboard=true;$this->product_info_device_os="Palm OS";$this->product_info_mobile_browser_version="4.5";?>

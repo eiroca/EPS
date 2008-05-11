@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G38/F2479.php");$this->ID=2486;$this->product_info_model_name="myC5-3";$this->object_download_ringtone_mp3=true;$this->object_download_screensaver=true;$this->object_download_screensaver_gif=true;$this->sound_format_mp3=true;$this->sound_format_aac=true;$this->display_max_image_width=121;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G38/F2485.php");$this->ID=2486;$this->bearer_max_data_rate=40;?>

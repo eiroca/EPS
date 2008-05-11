@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G59/F3784.php");$this->ID=4596;$this->product_info_model_name="VM-4050";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4594.php");$this->ID=4596;$this->product_info_uaprof="http://device.sprintpcs.com/Samsung/SPH-M300/AD02.rdf";$this->bearer_max_data_rate=9;?>

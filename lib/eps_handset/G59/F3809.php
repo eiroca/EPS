@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=3809;$this->display_resolution_height=50;$this->display_columns=15;$this->display_rows=5;$this->product_info_brand_name="Samsung";$this->product_info_model_name="SCH-8500";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G59/F3808.php");$this->ID=3809;$this->product_info_model_name="TQ-V802SH";$this->product_info_uaprof="http://www.sharp-mobile.com/UAProf/802SH_G001_base.xml";?>

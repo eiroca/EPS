@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G62/F4023.php");$this->ID=4024;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4430.php");$this->ID=4024;$this->product_info_brand_name="Nokia";$this->product_info_model_name="770";$this->product_info_has_pointing_device=true;$this->product_info_is_wireless_device=true;$this->display_max_image_width=800;$this->display_max_image_height=480;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F2994.php");$this->ID=2995;$this->product_info_model_name="W710c";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/W710cR101.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F2994.php");$this->ID=2995;$this->display_max_image_width=234;$this->display_max_image_height=300;$this->markup_preferred_markup="html_wi_oma_xhtmlmp_1_0";?>

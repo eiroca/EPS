@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5116.php");$this->ID=921;$this->product_info_has_pointing_device=true;$this->xhtml_ui_xhtml_display_accesskey=false;$this->xhtml_ui_xhtml_format_as_attribute=false;$this->bearer_max_data_rate=1800;$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G14/F919.php");$this->ID=921;$this->bearer_max_data_rate=1800;$this->bearer_wifi=true;?>

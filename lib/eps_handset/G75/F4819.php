@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G41/F2636.php");$this->ID=4819;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4638.php");$this->ID=4819;$this->product_info_model_name="ME970c";$this->markup_preferred_markup="html_wi_w3_xhtmlbasic";$this->object_download_ringtone_amr=true;$this->object_download_ringtone_wav=true;$this->object_download_video=true;?>

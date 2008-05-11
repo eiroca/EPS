@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G84/F5408.php");$this->ID=5409;$this->drm_oma_v_1_0_combined_delivery=true;$this->drm_oma_v_1_0_forwardlock=true;$this->drm_oma_v_1_0_separate_delivery=true;?>

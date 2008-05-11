@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G33/F2143.php");$this->ID=2148;$this->product_info_model_name="E100M";$this->product_info_uaprof="http://motorola.handango.com/phoneconfig/E1000/Profile/E1000_NO_BEARER.rdf";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=2148;$this->product_info_brand_name="Motorola";$this->product_info_model_name="E825";$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_0=true;?>

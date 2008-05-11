@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G29/F1898.php");$this->ID=1899;$this->product_info_mobile_browser_version="2.1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=1899;$this->product_info_model_name="TH4";$this->product_info_brand_name="Alcatel";$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="2.0";$this->display_resolution_height=160;$this->display_resolution_width=128;?>

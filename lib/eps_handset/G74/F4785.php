@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G7/F490.php");$this->ID=4785;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4568.php");$this->ID=4785;$this->product_info_mobile_browser="Nokia";$this->product_info_mobile_browser_version="3.0.1";$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/c260_10.xml";?>

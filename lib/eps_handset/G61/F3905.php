@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3905;$this->product_info_brand_name="Capitel";$this->product_info_model_name="F600";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3904.php");$this->ID=3905;$this->markup_xhtml_support_level=2;$this->xhtml_ui_xhtml_marquee_as_css_property=true;$this->xhtml_ui_xhtml_format_as_css_property=true;?>

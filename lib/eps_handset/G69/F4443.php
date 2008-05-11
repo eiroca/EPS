@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F9.php");$this->ID=4443;$this->product_info_model_name="6135";$this->image_format_colors=65536;$this->object_download_ringtone_voices=32;$this->object_download_wallpaper_colors=16;$this->object_download_wallpaper_preferred_height=160;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4439.php");$this->ID=4443;$this->bearer_max_data_rate=40;?>

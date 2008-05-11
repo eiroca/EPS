@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3955.php");$this->ID=5218;$this->product_info_model_name="Xda Atom Exec";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G23/F1502.php");$this->ID=5218;$this->product_info_model_name="SGH-D900 (Voda)";$this->bearer_max_data_rate=40;?>

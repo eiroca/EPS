@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G6/F445.php");$this->ID=4805;$this->bearer_max_data_rate=200;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G21/F1391.php");$this->ID=4805;$this->product_info_model_name="SGH-X560L";$this->object_download_screensaver=true;?>

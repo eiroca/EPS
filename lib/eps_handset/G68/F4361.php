@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4359.php");$this->ID=4361;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4312.php");$this->ID=4361;$this->product_info_brand_name="Grundig";$this->product_info_model_name="G550i";?>

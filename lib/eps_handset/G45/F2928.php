@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2903.php");$this->ID=2928;$this->product_info_model_name="T618";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/T618R101.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2917.php");$this->ID=2928;$this->bearer_max_data_rate=40;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G11/F766.php");$this->ID=4394;$this->product_info_model_name="Opera for 7650";$this->markup_preferred_markup="html_web_4_0";$this->markup_html_wi_imode_compact_generic=true;$this->markup_html_wi_oma_xhtmlmp_1_0=true;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4386.php");$this->ID=4394;$this->display_max_image_width=120;?>

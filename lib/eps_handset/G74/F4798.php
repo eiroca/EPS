@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4466.php");$this->ID=4798;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4591.php");$this->ID=4798;$this->product_info_model_name="SGH-I718";$this->object_download_wallpaper_colors=16;$this->object_download_screensaver=true;$this->object_download_wallpaper_preferred_width=120;$this->object_download_wallpaper_preferred_height=160;?>

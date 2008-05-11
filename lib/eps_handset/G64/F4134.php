@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4131.php");$this->ID=4134;$this->product_info_model_name="N501i";$this->display_columns=10;$this->display_rows=10;$this->display_resolution_width=118;$this->display_resolution_height=128;$this->display_max_image_width=118;$this->display_max_image_height=96;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4133.php");$this->ID=4134;$this->bearer_max_data_rate=40;?>

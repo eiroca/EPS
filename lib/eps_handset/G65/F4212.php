@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G65/F4211.php");$this->ID=4212;$this->product_info_model_name="Fujitsu 901iC";$this->sound_format_aac=true;$this->display_columns=23;$this->display_rows=12;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4212;$this->product_info_brand_name="SmartTrust";$this->product_info_model_name="WIB";?>

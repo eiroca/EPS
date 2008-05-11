@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G14/F921.php");$this->ID=5295;$this->flash_lite_flash_lite_version="3_0";$this->bearer_max_data_rate=1800;$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=5295;$this->product_info_model_name="1450M (MetroPCS)";$this->product_info_brand_name="UTStarcom";?>

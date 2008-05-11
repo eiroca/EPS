@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2290.php");$this->ID=5034;$this->product_info_model_name="RAZR V6vb";$this->object_download_wallpaper_preferred_width=128;$this->object_download_wallpaper_preferred_height=128;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G77/F4966.php");$this->ID=5034;$this->bearer_max_data_rate=40;?>

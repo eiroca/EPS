@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3958;$this->product_info_brand_name="SavaJe";$this->product_info_model_name="SavaJeOS";$this->markup_preferred_markup="wml_1_2";$this->markup_wml_1_2=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3958;$this->product_info_model_name="DA8";$this->product_info_brand_name="Amoisonic";$this->display_resolution_height=160;$this->display_resolution_width=128;?>

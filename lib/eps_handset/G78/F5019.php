@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G41/F2648.php");$this->ID=5019;$this->product_info_model_name="K205i";$this->object_download_ringtone_voices=16;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G73/F4708.php");$this->ID=5019;$this->bearer_max_data_rate=40;?>

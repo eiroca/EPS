@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F252.php");$this->ID=5283;$this->product_info_model_name="Q (Verizon Wireless)";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G75/F4808.php");$this->ID=5283;$this->image_format_colors=262144;$this->bearer_max_data_rate=384;?>

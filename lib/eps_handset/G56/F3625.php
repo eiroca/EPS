@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3625;$this->product_info_brand_name="Kyocera";$this->product_info_model_name="Garnetto";$this->display_resolution_width=128;$this->display_resolution_height=160;$this->display_max_image_width=128;$this->display_max_image_height=160;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G56/F3624.php");$this->ID=3625;$this->bearer_max_data_rate=40;?>

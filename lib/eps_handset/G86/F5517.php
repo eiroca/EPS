@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2830.php");$this->ID=5517;$this->product_info_uaprof="http://wap.sonyericsson.com/UAProf/W950iR100.xml";?>

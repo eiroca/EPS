@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G40/F2620.php");$this->ID=2666;$this->product_info_model_name="K500i";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/K500iR201.xml";$this->storage_max_deck_size=20000;$this->display_max_image_width=123;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G41/F2665.php");$this->ID=2666;$this->bearer_max_data_rate=40;?>

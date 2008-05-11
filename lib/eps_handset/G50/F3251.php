@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3251;$this->product_info_brand_name="LG";$this->product_info_model_name="G5500";$this->j2me_j2me_midp_1_0=true;$this->j2me_j2me_cldc_1_0=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3251;$this->product_info_model_name="G5400";$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-G5400.xml";$this->product_info_brand_name="LG";?>

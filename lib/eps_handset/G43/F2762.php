@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2758.php");$this->ID=2762;$this->product_info_model_name="K800iv";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/K800iR201-3G.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2760.php");$this->ID=2762;$this->bearer_max_data_rate=40;?>

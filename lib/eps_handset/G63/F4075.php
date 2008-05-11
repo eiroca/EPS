@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G63/F4072.php");$this->ID=4075;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4075;$this->product_info_brand_name="Onda";$this->product_info_model_name="N1000i";$this->display_resolution_width=101;$this->display_resolution_height=80;$this->display_max_image_width=101;$this->display_max_image_height=60;?>

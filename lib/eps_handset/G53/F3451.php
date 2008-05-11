@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3450.php");$this->ID=3451;$this->product_info_model_name="VX6000 (Verizon Wireless)";$this->object_download_wallpaper_png=false;$this->object_download_ringtone_mp3=false;$this->object_download_ringtone_qcelp=false;$this->mms_mms_qcelp=false;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3450.php");$this->ID=3451;$this->bearer_max_data_rate=40;?>

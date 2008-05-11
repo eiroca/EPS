@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4298.php");$this->ID=4299;$this->product_info_model_name="NetFront Ver. 3.2";$this->product_info_mobile_browser_version="3.2";$this->markup_xhtml_support_level=3;$this->storage_max_deck_size=40000;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4298.php");$this->ID=4299;$this->product_info_model_name="Fujitsu 901iC";$this->sound_format_aac=true;$this->display_columns=23;$this->display_rows=12;?>
