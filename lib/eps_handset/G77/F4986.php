@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G50/F3204.php");$this->ID=4986;$this->object_download_screensaver=true;$this->object_download_screensaver_gif=true;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G10/F700.php");$this->ID=4986;$this->bearer_max_data_rate=40;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F69.php");$this->ID=92;$this->product_info_model_name="BlackBerry 6280";$this->display_resolution_height=100;$this->display_max_image_height=100;$this->display_rows=10;$this->display_columns=26;$this->storage_max_deck_size=32768;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F89.php");$this->ID=92;$this->bearer_max_data_rate=40;?>

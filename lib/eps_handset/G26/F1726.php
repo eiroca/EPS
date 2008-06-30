@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=1726;$this->product_info_brand_name="Samsung";$this->product_info_model_name="SCH-3500";$this->display_resolution_width=96;$this->display_resolution_height=24;$this->display_columns=16;$this->display_rows=4;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G26/F1722.php");$this->ID=1726;$this->product_info_model_name="SGH-X481";$this->markup_preferred_markup="wml_1_2";?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G73/F4708.php");$this->ID=5165;$this->product_info_model_name="P3450 Elf (Voda)";$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5065.php");$this->ID=5165;$this->bearer_max_data_rate=40;?>

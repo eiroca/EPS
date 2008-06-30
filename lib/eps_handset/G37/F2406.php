@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G37/F2405.php");$this->ID=2406;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G37/F2405.php");$this->ID=2406;$this->product_info_model_name="V872";$this->product_info_brand_name="Motorola";$this->object_download_wallpaper_preferred_height=160;$this->bearer_max_data_rate=40;$this->display_max_image_width=123;$this->display_resolution_width=128;?>

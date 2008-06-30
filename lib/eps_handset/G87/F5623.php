@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G11/F739.php");$this->ID=5623;$this->display_columns=18;$this->sound_format_midi_monophonic=true;?>

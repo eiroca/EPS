@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3592;$this->product_info_brand_name="Panasonic";$this->product_info_model_name="G600i";$this->sms_panasonic=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G56/F3591.php");$this->ID=3592;$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="3.0";$this->product_info_model_name="362-2";$this->display_max_image_width=111;?>

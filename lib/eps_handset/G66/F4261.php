@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4259.php");$this->ID=4261;$this->display_columns=24;$this->display_rows=12;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4261;$this->product_info_model_name="TSM-1";$this->product_info_brand_name="Vitelcom";$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

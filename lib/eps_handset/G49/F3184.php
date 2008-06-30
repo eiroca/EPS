@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G49/F3183.php");$this->ID=3184;$this->bearer_max_data_rate=200;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G49/F3180.php");$this->ID=3184;$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="2.0";$this->product_info_model_name="C3310";$this->markup_xhtml_support_level=1;$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_1=true;$this->display_max_image_width=119;?>

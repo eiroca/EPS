@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G41/F2634.php");$this->ID=4946;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=4946;$this->product_info_model_name="G'zOne Type-V (Verizon Wireless)";$this->product_info_brand_name="UTStarcom";?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G36/F2311.php");$this->ID=2312;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2293.php");$this->ID=2312;$this->product_info_mobile_browser="Openwave Mobile Browser";$this->product_info_mobile_browser_version="6.2";$this->product_info_model_name="RAZR V3m (Metro PCS)";$this->product_info_brand_name="Motorola";$this->bearer_max_data_rate=40;?>

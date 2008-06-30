@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4454.php");$this->ID=5723;$this->product_info_model_name="C5320";$this->product_info_can_skip_aligned_link_row=true;$this->product_info_brand_name="Huawei";?>

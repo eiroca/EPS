@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G62/F4006.php");$this->ID=5145;$this->product_info_model_name="PURPLE A700";$this->object_download_directdownload_support=false;$this->object_download_ringtone_voices=1;$this->object_download_wallpaper_gif=true;$this->object_download_ringtone_midi_polyphonic=false;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G13/F887.php");$this->ID=5145;$this->bearer_max_data_rate=200;?>

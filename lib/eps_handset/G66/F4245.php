@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4239.php");$this->ID=4245;$this->product_info_model_name="SO503i";$this->image_format_colors=65536;$this->j2me_j2me_storage_size=350;$this->display_max_image_width=120;$this->display_max_image_height=97;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F17.php");$this->ID=4245;$this->storage_max_deck_size=2984;?>

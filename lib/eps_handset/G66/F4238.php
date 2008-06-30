@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4237.php");$this->ID=4238;$this->storage_max_deck_size=10240;$this->image_format_colors=256;$this->display_rows=7;$this->display_resolution_height=117;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4237.php");$this->ID=4238;$this->bearer_max_data_rate=40;$this->display_max_image_width=89;?>

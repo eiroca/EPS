@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4003;$this->product_info_brand_name="iKoMo";$this->product_info_model_name="iK201";$this->display_resolution_width=128;$this->display_resolution_height=128;$this->display_max_image_width=128;$this->display_max_image_height=128;$this->object_download_wallpaper=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G62/F4002.php");$this->ID=4003;$this->bearer_max_data_rate=40;?>

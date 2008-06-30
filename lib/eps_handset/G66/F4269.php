@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4268.php");$this->ID=4269;$this->j2me_j2me_storage_size=1512;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F17.php");$this->ID=4269;$this->product_info_model_name="TSM-6";$this->product_info_brand_name="Vitelcom";$this->storage_max_deck_size=200000;$this->j2me_j2me_cldc_1_0=true;$this->j2me_j2me_midp_1_0=true;$this->display_max_image_width=100;$this->display_resolution_width=100;?>

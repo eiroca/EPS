@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2265.php");$this->ID=2266;$this->product_info_model_name="V265 (Verizon Wireless)";$this->image_format_gif_animated=true;$this->mms_mms_3gpp2=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2262.php");$this->ID=2266;$this->product_info_model_name="V185";$this->display_max_image_height=96;?>

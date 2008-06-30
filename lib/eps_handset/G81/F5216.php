@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G81/F5211.php");$this->ID=5216;$this->bearer_max_data_rate=384;$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G54/F3469.php");$this->ID=5216;$this->product_info_model_name="U370";$this->drm_oma_v_1_0_forwardlock=false;$this->object_download_oma_support=false;$this->object_download_video_qcif=true;$this->bearer_max_data_rate=384;?>

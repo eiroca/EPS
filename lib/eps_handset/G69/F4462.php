@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G9/F606.php");$this->ID=4462;$this->product_info_model_name="Opera for 6600";$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4453.php");$this->ID=4462;$this->display_max_image_width=120;?>

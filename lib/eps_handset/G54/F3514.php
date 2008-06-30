@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3514;$this->product_info_brand_name="NEC";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G54/F3513.php");$this->ID=3514;$this->product_info_model_name="VX7000 (Verizon Wireless)";$this->object_download_ringtone_qcelp=true;?>

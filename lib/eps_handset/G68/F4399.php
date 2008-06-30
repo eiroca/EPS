@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4388.php");$this->ID=4399;$this->display_max_image_width=120;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4377.php");$this->ID=4399;$this->product_info_model_name="333i";$this->product_info_brand_name="NEC";?>

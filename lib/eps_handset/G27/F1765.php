@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G27/F1763.php");$this->ID=1765;$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/Z240UAProf.rdf";$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G27/F1764.php");$this->ID=1765;$this->bearer_max_data_rate=384;?>

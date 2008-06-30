@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F17.php");$this->ID=34;$this->product_info_brand_name="Audiovox";$this->product_info_model_name="CDM-8600";$this->image_format_png=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F17.php");$this->ID=34;$this->product_info_model_name="CDM-8600";$this->product_info_brand_name="Audiovox";$this->image_format_png=true;?>

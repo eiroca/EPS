@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G41/F2628.php");$this->ID=2629;$this->streaming_streaming_video=true;$this->streaming_streaming_3gpp=true;$this->streaming_streaming_video_vcodec_h263_0=true;$this->streaming_streaming_video_qcif=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G41/F2628.php");$this->ID=2629;$this->markup_xhtml_support_level=3;?>

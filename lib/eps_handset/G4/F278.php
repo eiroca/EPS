@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F277.php");$this->ID=278;$this->product_info_model_name="E200";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F287.php");$this->ID=278;$this->product_info_model_name="E100";$this->product_info_brand_name="SPV";$this->display_max_image_width=176;$this->display_resolution_height=220;$this->display_resolution_width=176;$this->display_max_image_height=220;$this->image_format_colors=65536;?>

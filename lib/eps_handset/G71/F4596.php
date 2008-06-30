@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4594.php");$this->ID=4596;$this->product_info_uaprof="http://device.sprintpcs.com/Samsung/SPH-M300/AD02.rdf";$this->bearer_max_data_rate=9;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4595.php");$this->ID=4596;$this->display_max_image_width=120;$this->display_resolution_width=120;?>

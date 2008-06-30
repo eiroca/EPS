@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F2968.php");$this->ID=2969;$this->bearer_max_data_rate=9;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F2968.php");$this->ID=2969;$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/T610R601.xml";$this->bearer_max_data_rate=40;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F294.php");$this->ID=295;$this->storage_max_deck_size=8192;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=295;$this->product_info_brand_name="Mitsubishi";$this->wml_ui_card_title_support=false;?>

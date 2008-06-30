@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F202.php");$this->ID=3908;$this->product_info_brand_name="BenQ";$this->product_info_model_name="P50";$this->object_download_wallpaper_colors=12;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3908;$this->product_info_model_name="A5509T";$this->product_info_brand_name="KDDI";$this->display_max_image_width=112;$this->display_resolution_width=128;?>

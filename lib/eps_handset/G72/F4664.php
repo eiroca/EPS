@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G31/F2031.php");$this->ID=4664;$this->product_info_model_name="C350i";$this->image_format_jpg=true;$this->object_download_screensaver=true;$this->object_download_wallpaper_preferred_height=64;$this->display_max_image_width=94;$this->display_max_image_height=48;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4663.php");$this->ID=4664;$this->bearer_max_data_rate=40;?>

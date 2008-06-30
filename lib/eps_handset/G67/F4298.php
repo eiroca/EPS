@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4290.php");$this->ID=4298;$this->product_info_model_name="901i Series";$this->flash_lite_flash_lite_version="1_1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4297.php");$this->ID=4298;$this->storage_max_deck_size=10240;$this->image_format_colors=256;$this->display_rows=7;$this->display_resolution_height=117;?>

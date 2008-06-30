@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4439.php");$this->ID=4447;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4377.php");$this->ID=4447;$this->product_info_model_name="N630i";$this->product_info_brand_name="NEC";$this->display_max_image_width=120;$this->display_resolution_width=120;?>

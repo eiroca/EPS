@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2834.php");$this->ID=2842;$this->product_info_model_name="Z310iv";$this->object_download_ringtone_voices=16;$this->object_download_ringtone_mp3=true;$this->object_download_wallpaper_preferred_height=160;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2838.php");$this->ID=2842;$this->product_info_uaprof="http://www.sonyericsson.com/UAProf/P910aR102.xml";$this->product_info_model_name="P910a";?>

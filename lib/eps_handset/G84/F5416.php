@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G84/F5415.php");$this->ID=5416;$this->display_max_image_width=120;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G84/F5407.php");$this->ID=5416;$this->product_info_model_name="DMR1500";$this->product_info_brand_name="tvCompass";$this->display_resolution_height=320;$this->display_resolution_width=240;$this->image_format_bmp=false;$this->image_format_tiff=false;?>

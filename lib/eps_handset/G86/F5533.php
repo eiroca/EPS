@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F565.php");$this->ID=5533;$this->display_resolution_width=240;$this->display_rows=16;$this->image_format_bmp=true;$this->storage_max_deck_size=131072;$this->mms_mms_max_size=307200;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4904.php");$this->ID=5533;$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-MG320c.xml";?>

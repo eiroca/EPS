@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G10/F696.php");$this->ID=697;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F4.php");$this->ID=697;$this->product_info_model_name="6650x";$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

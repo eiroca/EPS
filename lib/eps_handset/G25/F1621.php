@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G25/F1620.php");$this->ID=1621;$this->product_info_model_name="P107";$this->product_info_mobile_browser="Nokia";$this->product_info_mobile_browser_version="3.0";$this->product_info_uaprof="wap.samsungmobile.com/uaprof/p107.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=1621;$this->product_info_model_name="SGH-N600";$this->product_info_brand_name="Samsung";?>

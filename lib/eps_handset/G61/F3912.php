@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3911.php");$this->ID=3912;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3911.php");$this->ID=3912;$this->product_info_mobile_browser="Safari";$this->product_info_model_name="iPod Touch";$this->wml_ui_wml_make_phone_call_string="none";$this->xhtml_ui_xhtml_make_phone_call_string="none";?>

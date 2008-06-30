@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4309.php");$this->ID=4310;$this->product_info_model_name="TS21iC";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4309.php");$this->ID=4310;$this->mms_built_in_camera=true;$this->j2me_j2me_storage_size=1500;?>

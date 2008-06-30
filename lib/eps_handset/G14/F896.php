@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G13/F895.php");$this->ID=896;$this->bearer_max_data_rate=384;$this->object_download_video_vcodec_h264="none";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G13/F894.php");$this->ID=896;$this->bearer_max_data_rate=384;$this->ajax_ajax_support_javascript=true;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G20/F1316.php");$this->ID=5114;$this->product_info_model_name="SGH-J630";$this->object_download_ringtone_voices=16;$this->object_download_wallpaper_colors=18;$this->object_download_wallpaper_preferred_width=176;$this->object_download_wallpaper_preferred_height=220;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F169.php");$this->ID=5114;$this->bearer_wifi=true;$this->bearer_max_data_rate=200;?>

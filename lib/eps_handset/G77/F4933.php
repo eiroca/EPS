@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F538.php");$this->ID=4933;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G30/F1934.php");$this->ID=4933;$this->product_info_model_name="KRZR K1c (Verizon Wireless)";$this->image_format_gif_animated=true;$this->object_download_wallpaper_jpg=true;$this->object_download_ringtone_midi_polyphonic=true;?>

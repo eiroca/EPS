@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G9/F595.php");$this->ID=4897;$this->ajax_ajax_support_getelementbyid=true;$this->ajax_ajax_support_javascript=true;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4896.php");$this->ID=4897;$this->product_info_model_name="ME550c";$this->object_download_video=true;$this->display_max_image_width=169;$this->display_resolution_width=176;?>

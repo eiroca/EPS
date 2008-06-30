@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2825.php");$this->ID=2826;$this->product_info_model_name="W300i";$this->object_download_ringtone_voices=40;$this->object_download_video_max_width=128;$this->object_download_video_max_height=160;$this->flash_lite_fl_browser=true;$this->bearer_max_data_rate=200;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2821.php");$this->ID=2826;$this->bearer_max_data_rate=40;?>

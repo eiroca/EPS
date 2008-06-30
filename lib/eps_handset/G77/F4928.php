@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G6/F445.php");$this->ID=4928;$this->bearer_max_data_rate=200;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G36/F2313.php");$this->ID=4928;$this->product_info_model_name="V325 (Verizon Wireless)";$this->image_format_gif_animated=true;$this->object_download_wallpaper_jpg=true;?>

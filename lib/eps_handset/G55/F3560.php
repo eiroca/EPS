@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G55/F3559.php");$this->ID=3560;$this->display_resolution_height=128;$this->display_resolution_width=128;$this->object_download_ringtone_voices=16;$this->object_download_wallpaper_colors=8;$this->object_download_wallpaper_gif=true;$this->object_download_ringtone_midi_polyphonic=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G55/F3558.php");$this->ID=3560;$this->bearer_max_data_rate=40;?>

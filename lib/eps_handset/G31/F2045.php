@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F17.php");$this->ID=2045;$this->product_info_model_name="C357";$this->product_info_brand_name="Motorola";$this->product_info_uaprof="http://uaprof.motorola.com/phoneconfig/c357/Profile/c357.rdf";$this->product_info_mobile_browser_version="6.2.2.1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G31/F2042.php");$this->ID=2045;$this->product_info_model_name="C350M";$this->j2me_j2me_midp_1_0=false;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2852.php");$this->ID=2853;$this->product_info_model_name="T20e";$this->wml_ui_softkey_support=true;$this->display_max_image_width=101;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2848.php");$this->ID=2853;$this->product_info_model_name="P990c";$this->bearer_wifi=true;?>

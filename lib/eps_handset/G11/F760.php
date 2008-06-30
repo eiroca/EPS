@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G11/F759.php");$this->ID=760;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G11/F754.php");$this->ID=760;$this->product_info_uaprof="http://nds1.nds.nokia.com/uaprof/NNGageQDr200.xml";$this->product_info_model_name="N-Gage QD";$this->bearer_max_data_rate=40;?>

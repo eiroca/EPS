@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4503.php");$this->ID=4504;$this->product_info_model_name="WinWAP Pro 3.1";$this->image_format_png=false;$this->image_format_greyscale=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4500.php");$this->ID=4504;$this->bearer_max_data_rate=40;?>

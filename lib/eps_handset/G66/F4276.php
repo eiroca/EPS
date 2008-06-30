@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4258.php");$this->ID=4276;$this->product_info_model_name="D506i";$this->wml_ui_wml_make_phone_call_string="none";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F19.php");$this->ID=4276;$this->product_info_model_name="Cosmos";$this->product_info_brand_name="Yas";$this->display_max_image_width=112;$this->display_resolution_width=120;?>

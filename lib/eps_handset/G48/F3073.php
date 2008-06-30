@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G48/F3072.php");$this->ID=3073;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3068.php");$this->ID=3073;$this->product_info_model_name="Z800i";$this->object_download_video_max_width=220;$this->object_download_video_acodec_amr=true;$this->object_download_video_vcodec_mpeg4=true;$this->object_download_video_max_height=176;$this->object_download_video_vcodec_h263_0=true;?>

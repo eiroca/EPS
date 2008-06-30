@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F1.php");$this->ID=5300;$this->product_info_model_name="SPHM560 (Sprint)";$this->product_info_brand_name="Samsung";$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="2.0";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G82/F5295.php");$this->ID=5300;$this->bearer_wifi=true;$this->bearer_max_data_rate=384;?>

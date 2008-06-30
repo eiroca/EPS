@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2908.php");$this->ID=2913;$this->product_info_model_name="T316";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/T316R101.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2912.php");$this->ID=2913;$this->product_info_brand_name="Ericsson";$this->display_max_image_width=101;$this->display_max_image_height=50;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

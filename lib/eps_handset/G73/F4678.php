@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2261.php");$this->ID=4678;$this->product_info_model_name="V291";$this->image_format_colors=4096;$this->object_download_wallpaper_colors=8;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G73/F4676.php");$this->ID=4678;$this->product_info_uaprof="http://device.sprintpcs.com/Samsung/SPH-M300/AD02.rdf";$this->bearer_max_data_rate=9;?>

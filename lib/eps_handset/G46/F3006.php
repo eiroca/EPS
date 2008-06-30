@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F3004.php");$this->ID=3006;$this->product_info_model_name="W700i";$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/W700iR101.xml";$this->bearer_max_data_rate=40;$this->j2me_j2me_cldc_1_1=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F3001.php");$this->ID=3006;$this->bearer_max_data_rate=9;?>

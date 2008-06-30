@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3482;$this->product_info_uaprof="http://nec-uap.com/prof/UAPMargay.xml";$this->product_info_brand_name="NEC";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=3482;$this->product_info_model_name="TM520";$this->product_info_brand_name="LG";?>

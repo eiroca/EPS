@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G14/F920.php");$this->ID=5396;$this->flash_lite_flash_lite_version="3_0";$this->bearer_max_data_rate=1800;$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G77/F4964.php");$this->ID=5396;$this->display_max_image_width=120;?>

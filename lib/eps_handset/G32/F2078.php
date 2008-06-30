@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G32/F2077.php");$this->ID=2078;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=2078;$this->product_info_model_name="V800";$this->product_info_brand_name="Motorola";$this->display_max_image_width=170;$this->display_resolution_width=176;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>
