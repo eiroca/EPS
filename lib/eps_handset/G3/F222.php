@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F287.php");$this->ID=222;$this->product_info_model_name="Gemini";$this->product_info_brand_name="HTC";$this->object_download_video_3gpp2=false;$this->object_download_video_3gpp=true;$this->object_download_video_mp4=true;$this->object_download_video=true;$this->object_download_video_wmv=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F221.php");$this->ID=222;$this->bearer_max_data_rate=40;?>
