@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F203.php");$this->ID=294;$this->product_info_model_name="NetBook Pro";$this->product_info_brand_name="Psion";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F293.php");$this->ID=294;$this->storage_max_deck_size=8192;?>
