@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G42/F2717.php");$this->ID=2718;$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/K508cR201.xml";$this->product_info_model_name="K508c";$this->storage_max_deck_size=20000;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G42/F2712.php");$this->ID=2718;$this->product_info_model_name="K508";?>

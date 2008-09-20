@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2838.php");$this->ID=2842;$this->product_info_uaprof="http://www.sonyericsson.com/UAProf/P910aR102.xml";$this->product_info_model_name="P910a";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2840.php");$this->ID=2842;$this->bearer_max_data_rate=40;?>

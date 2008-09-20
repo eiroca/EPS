@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=2878;$this->product_info_model_name="Z700";$this->product_info_brand_name="SonyEricsson";$this->display_resolution_width=94;$this->display_resolution_height=65;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G44/F2875.php");$this->ID=2878;$this->product_info_model_name="Z530c";$this->bearer_max_data_rate=40;?>
