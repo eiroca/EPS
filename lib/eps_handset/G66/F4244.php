@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4244;$this->product_info_model_name="CG360";$this->product_info_brand_name="Toplux";$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_0=true;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4243.php");$this->ID=4244;$this->product_info_model_name="EZ400";$this->display_max_image_width=121;?>

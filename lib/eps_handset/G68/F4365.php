@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4361.php");$this->ID=4365;$this->product_info_model_name="Simulator II";$this->wml_ui_wml_make_phone_call_string="none";$this->chtml_ui_chtml_make_phone_call_string="none";$this->sound_format_voices=0;$this->sound_format_midi_polyphonic=false;$this->display_max_image_width=220;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4364.php");$this->ID=4365;$this->display_columns=18;$this->display_rows=10;?>

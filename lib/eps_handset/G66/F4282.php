@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G66/F4278.php");$this->ID=4282;$this->product_info_model_name="P501i";$this->display_rows=8;$this->display_resolution_height=120;$this->display_max_image_height=90;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4282;$this->product_info_model_name="WIB";$this->product_info_brand_name="SmartTrust";?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=4019;$this->product_info_model_name="A9B";$this->product_info_brand_name="Amoi";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=4019;$this->display_max_image_width=121;$this->display_resolution_width=128;?>

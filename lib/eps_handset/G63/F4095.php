@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F203.php");$this->ID=4095;$this->product_info_has_pointing_device=true;$this->product_info_has_qwerty_keyboard=true;$this->product_info_brand_name="O2";$this->bearer_wifi=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F250.php");$this->ID=4095;$this->product_info_model_name="8080";$this->product_info_brand_name="Qtek";?>

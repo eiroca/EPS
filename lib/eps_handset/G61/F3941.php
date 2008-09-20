@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3938.php");$this->ID=3941;$this->product_info_model_name="P600";$this->display_max_image_width=128;$this->display_max_image_height=96;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=3941;$this->product_info_model_name="J530";$this->product_info_brand_name="Sendo";$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

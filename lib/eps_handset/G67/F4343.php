@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4338.php");$this->ID=4343;$this->product_info_model_name="N2102V";$this->sound_format_voices=40;$this->j2me_doja_2_2=true;$this->display_max_image_width=176;$this->display_max_image_height=148;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4342.php");$this->ID=4343;$this->display_columns=40;$this->display_rows=21;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4064;$this->product_info_model_name="K368";$this->product_info_brand_name="Kejian";$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4064;$this->product_info_model_name="802";$this->product_info_brand_name="Idea";$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

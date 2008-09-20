@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4104.php");$this->ID=4105;$this->display_max_image_width=169;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F201.php");$this->ID=4105;$this->product_info_has_pointing_device=true;$this->product_info_has_qwerty_keyboard=true;$this->product_info_brand_name="O2";$this->bearer_wifi=true;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4353.php");$this->ID=4345;$this->product_info_model_name="700i Series";$this->sound_format_aac=true;$this->flash_lite_flash_lite_version="1_1";$this->display_max_image_width=220;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4342.php");$this->ID=4345;$this->display_columns=16;$this->display_rows=8;?>

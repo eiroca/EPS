@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G63/F4041.php");$this->ID=4042;$this->product_info_model_name="Sidekick II";$this->product_info_brand_name="T-Mobile";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4042;$this->display_max_image_width=118;$this->display_resolution_width=128;?>

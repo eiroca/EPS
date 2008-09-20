@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G63/F4092.php");$this->ID=4093;$this->product_info_model_name="M3100";$this->mms_built_in_camera=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F250.php");$this->ID=4093;$this->product_info_model_name="8010";$this->product_info_brand_name="Qtek";?>
