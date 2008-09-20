@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3367;$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-MG200.xml";$this->product_info_model_name="MG200";$this->product_info_brand_name="LG";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G52/F3366.php");$this->ID=3367;$this->display_max_image_width=121;$this->display_resolution_width=128;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3406.php");$this->ID=3407;$this->product_info_model_name="VX5300 (Verizon Wireless)";$this->object_download_wallpaper_png=false;$this->display_max_image_width=120;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3406.php");$this->ID=3407;$this->bearer_max_data_rate=9;?>

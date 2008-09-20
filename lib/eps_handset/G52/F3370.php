@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G52/F3369.php");$this->ID=3370;$this->object_download_oma_support=false;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3370;$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-MG170.xml";$this->product_info_model_name="MG170";$this->product_info_brand_name="LG";?>

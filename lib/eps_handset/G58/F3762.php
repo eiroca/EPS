@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G58/F3761.php");$this->ID=3762;$this->product_info_model_name="SCP-8200";$this->bearer_max_data_rate=9;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4462.php");$this->ID=3762;$this->display_max_image_width=120;$this->product_info_uaprof="http://device.sprintpcs.com/Sanyo/PLS6650/1002QW.rdf";$this->product_info_model_name="SCP6650";$this->product_info_brand_name="Sanyo";?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G55/F3525.php");$this->ID=3527;$this->display_max_image_width=120;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3527;$this->product_info_uaprof="http://nec-uap.com/prof/UAPMargay.xml";$this->product_info_brand_name="NEC";?>

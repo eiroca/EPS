@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3702;$this->product_info_model_name="KX5B";$this->product_info_brand_name="Kyocera";$this->j2me_j2me_midp_1_0=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=3702;$this->product_info_model_name="QCP-5135";$this->product_info_brand_name="Kyocera";?>
