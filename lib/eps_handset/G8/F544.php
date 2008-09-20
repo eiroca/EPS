@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F542.php");$this->ID=544;$this->product_info_model_name="6235i";$this->j2me_j2me_cldc_1_1=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F543.php");$this->ID=544;$this->product_info_model_name="6236i (Verizon Wireless)";$this->sound_format_nokia_ringtone=false;$this->object_download_ringtone_mp3=true;$this->object_download_ringtone_amr=false;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G5/F356.php");$this->ID=830;$this->product_info_uaprof="http://device.sprintpcs.com/Nokia/NOK3205SPR/H125V1003.rdf";$this->product_info_model_name="3205 SPR";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G12/F803.php");$this->ID=830;$this->product_info_model_name="2112";?>

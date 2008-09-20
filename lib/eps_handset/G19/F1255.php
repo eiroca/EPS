@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1253.php");$this->ID=1255;$this->product_info_model_name="SGH-E108";$this->product_info_uaprof="http://wap.samsungmobile.com.cn/uaprof/SGH-E108.xml";$this->object_download_ringtone_imelody=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1254.php");$this->ID=1255;$this->bearer_max_data_rate=9;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=805;$this->product_info_brand_name="Nokia";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G12/F804.php");$this->ID=805;$this->display_columns=11;$this->display_rows=4;$this->display_max_image_width=96;$this->display_resolution_height=65;$this->display_resolution_width=96;$this->display_max_image_height=45;?>

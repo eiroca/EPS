@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F539.php");$this->ID=541;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G8/F540.php");$this->ID=541;$this->product_info_mobile_browser="Openwave Mobile Browser";$this->product_info_mobile_browser_version="6.2";?>
