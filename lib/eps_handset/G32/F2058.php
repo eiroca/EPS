@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G32/F2081.php");$this->ID=2058;$this->product_info_model_name="C370";$this->j2me_j2me_midp_2_0=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G32/F2057.php");$this->ID=2058;$this->product_info_model_name="C357";$this->product_info_brand_name="Motorola";?>

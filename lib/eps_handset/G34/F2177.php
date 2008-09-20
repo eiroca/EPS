@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G34/F2176.php");$this->ID=2177;$this->bearer_max_data_rate=384;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G33/F2172.php");$this->ID=2177;$this->product_info_uaprof="http://motorola.handango.com/phoneconfig/E1000/Profile/E1000_NO_BEARER.rdf";$this->product_info_model_name="E100M";?>

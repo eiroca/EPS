@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=2075;$this->product_info_model_name="V50";$this->product_info_brand_name="Motorola";$this->display_columns=16;$this->display_rows=4;$this->display_resolution_width=96;$this->wta_nokia_voice_call=true;$this->storage_max_deck_size=2048;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G32/F2073.php");$this->ID=2075;$this->bearer_max_data_rate=9;?>
