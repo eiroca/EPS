@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3911.php");$this->ID=5393;$this->product_info_model_name="iPhone Simulator";$this->product_info_brand_name="Aspen";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5062.php");$this->ID=5393;$this->bearer_max_data_rate=40;?>

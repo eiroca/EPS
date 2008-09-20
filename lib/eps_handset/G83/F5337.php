@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G83/F5336.php");$this->ID=5337;$this->product_info_uaprof="http://www.ondacommunication.com/ua/N1020.xml";$this->product_info_model_name="N1020";$this->object_download_ringtone_amr=false;$this->object_download_wallpaper_preferred_width=176;$this->object_download_wallpaper_preferred_height=144;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G6/F440.php");$this->ID=5337;$this->bearer_max_data_rate=200;?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G21/F1357.php");$this->ID=5787;$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/SGH-U900V_3G.rdf";$this->product_info_uaprof2="http://wap.samsungmobile.com/uaprof/SGH-U900V_2G.rdf";?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G77/F4951.php");$this->ID=5972;$this->product_info_uaprof="http://uaprof.vtext.com/mot/v9m/v9mv1.xml";?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G89/F5750.php");$this->ID=5751;$this->product_info_mobile_browser="Opera";$this->product_info_mobile_browser_version="8.5";$this->markup_xhtml_support_level=2;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2294.php");$this->ID=5751;$this->product_info_mobile_browser="Opera Mini";$this->product_info_mobile_browser_version="1.1.4821";?>

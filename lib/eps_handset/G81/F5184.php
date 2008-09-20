@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5096.php");$this->ID=5184;$this->product_info_model_name="M650";$this->product_info_brand_name="Orange";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G7/F492.php");$this->ID=5184;$this->markup_preferred_markup="html_wi_imode_html_3";$this->bearer_max_data_rate=200;?>

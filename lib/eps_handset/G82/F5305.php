@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1268.php");$this->ID=5305;$this->product_info_model_name="SGH-E370 (Voda)";$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G13/F893.php");$this->ID=5305;$this->bearer_max_data_rate=384;?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G93/F6000.php");$this->ID=6001;$this->product_info_uaprof="";$this->product_info_model_name="Treo 850";$this->product_info_uaprof2="";?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F191.php");$this->ID=5664;$this->product_info_model_name="577W";$this->product_info_brand_name="Dopod";$this->display_max_image_width=224;$this->display_resolution_width=240;$this->display_resolution_height=320;$this->display_max_image_height=300;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3920.php");$this->ID=5664;$this->xhtml_ui_accept_third_party_cookie=false;?>

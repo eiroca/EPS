@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G58/F3751.php");$this->ID=6218;$this->product_info_uaprof="http://mobileuaprof.xtra.co.nz/s5600.rdf";$this->product_info_can_skip_aligned_link_row=false;$this->product_info_model_name="MM5600 (New Zealand)";$this->product_info_release_date="2002_january";?>

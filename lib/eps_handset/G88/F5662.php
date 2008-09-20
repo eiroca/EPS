@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=5662;$this->product_info_uaprof="https://servicios.iusacell.com.mx/kyo/KX18.xml";$this->product_info_model_name="KX18";$this->product_info_brand_name="Kyocera";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3920.php");$this->ID=5662;$this->xhtml_ui_accept_third_party_cookie=false;?>

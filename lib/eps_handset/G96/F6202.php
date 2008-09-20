@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G51/F3314.php");$this->ID=6202;$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-KG300.xml";$this->product_info_model_name="KG300";?>

@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G89/F5756.php");$this->ID=6176;$this->product_info_model_name="Xda Exec";$this->product_info_brand_name="HTC";$this->product_info_release_date="2008_january";?>

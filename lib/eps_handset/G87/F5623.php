@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G11/F739.php");$this->ID=5623;$this->display_columns=18;$this->sound_format_midi_monophonic=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G73/F4710.php");$this->ID=5623;$this->display_rows=16;$this->image_format_colors=262144;$this->storage_max_deck_size=45000;$this->mms_mms_max_size=614400;$this->mms_mms_max_width=1632;$this->mms_mms_max_height=1224;?>

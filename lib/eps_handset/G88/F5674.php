@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5065.php");$this->ID=5674;$this->product_info_model_name="XV6900";$this->product_info_brand_name="Verizon";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3920.php");$this->ID=5674;$this->xhtml_ui_accept_third_party_cookie=false;?>

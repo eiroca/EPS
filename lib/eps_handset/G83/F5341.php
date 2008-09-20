@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G83/F5340.php");$this->ID=5341;$this->product_info_model_name="N3020";$this->object_download_ringtone_voices=32;$this->object_download_wallpaper_colors=16;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=5341;$this->product_info_uaprof="http://uaprof.motorola.com/phoneconfig/w385m/Profile/w385m.rdf";$this->product_info_model_name="W385";$this->product_info_brand_name="Motorola";?>

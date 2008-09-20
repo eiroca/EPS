@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F201.php");$this->ID=5904;$this->product_info_has_pointing_device=true;$this->product_info_has_qwerty_keyboard=true;$this->product_info_pointing_method="stylus";$this->product_info_model_name="JAQ";$this->product_info_brand_name="Imate";$this->bearer_wifi=true;?>

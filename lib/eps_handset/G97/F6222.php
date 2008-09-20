@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G90/F5806.php");$this->ID=6222;$this->product_info_uaprof="http://device.telusmobility.com/samsung/sphm800-0.rdf";$this->product_info_model_name="Instinct (SPH-M800), Telus Mobility";$this->product_info_uaprof2="";?>

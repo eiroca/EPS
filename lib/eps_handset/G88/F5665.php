@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G87/F5612.php");$this->ID=5665;$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_0=true;$this->j2me_j2me_cldc_1_1=true;$this->j2me_j2me_midp_1_0=true;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G61/F3920.php");$this->ID=5665;$this->xhtml_ui_accept_third_party_cookie=false;?>

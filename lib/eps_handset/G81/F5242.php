@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G37/F2400.php");$this->ID=5242;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5059.php");$this->ID=5242;$this->product_info_model_name="my411Cv";$this->object_download_wallpaper=true;$this->object_download_wallpaper_jpg=true;$this->object_download_wallpaper_gif=true;$this->object_download_screensaver=true;?>

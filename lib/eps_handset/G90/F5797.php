@@ -1,0 +1,1 @@
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G89/F5704.php");$this->ID=5797;$this->flash_lite_fl_screensaver=true;$this->xhtml_ui_xhtml_supports_width_as_percentage=true;$this->css_css_supports_width_as_percentage=true;?>

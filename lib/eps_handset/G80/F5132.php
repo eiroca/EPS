@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G43/F2802.php");$this->ID=5132;$this->flash_lite_flash_lite_version="";$this->bearer_max_data_rate=384;$this->product_info_model_name="K800i";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5063.php");$this->ID=5132;$this->bearer_max_data_rate=40;?>
