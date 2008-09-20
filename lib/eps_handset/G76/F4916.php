@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G74/F4791.php");$this->ID=4916;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4913.php");$this->ID=4916;$this->product_info_model_name="ME850c PRADA";$this->object_download_ringtone_voices=16;$this->object_download_wallpaper_preferred_width=240;$this->object_download_wallpaper_preferred_height=400;$this->object_download_video=true;$this->display_max_image_width=120;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4650.php");$this->ID=4868;$this->product_info_mobile_browser="Nokia";$this->product_info_mobile_browser_version="3.0.1";$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/c260_10.xml";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4615.php");$this->ID=4868;$this->xhtml_ui_accept_third_party_cookie=false;?>

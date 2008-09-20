@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4500;$this->product_info_uaprof="http://www.wapuniverse.com/devices/palmos_generic/wapuniverse.rdf";$this->product_info_model_name="WAPUniverse";$this->product_info_brand_name="WAPUniverse";$this->wml_ui_table_support=false;$this->markup_wml_1_3=true;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4499.php");$this->ID=4500;$this->bearer_max_data_rate=9;?>

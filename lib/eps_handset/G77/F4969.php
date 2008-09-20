@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3048.php");$this->ID=4969;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G77/F4948.php");$this->ID=4969;$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="5.0";$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-CU915.xml";$this->product_info_model_name="CU915";$this->j2me_j2me_cldc_1_1=true;$this->bearer_max_data_rate=40;?>

@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F8.php");$this->ID=4628;$this->product_info_model_name="6236i";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F319.php");$this->ID=4628;$this->product_info_model_name="2310";$this->object_download_ringtone_voices=4;$this->object_download_wallpaper_preferred_width=96;$this->object_download_wallpaper_preferred_height=68;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

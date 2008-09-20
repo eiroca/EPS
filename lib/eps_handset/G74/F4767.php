@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G37/F2405.php");$this->ID=4767;$this->product_info_model_name="V875";$this->object_download_ringtone_mp3=true;$this->object_download_ringtone_voices=40;$this->display_max_image_width=174;$this->display_resolution_width=178;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2294.php");$this->ID=4767;$this->bearer_max_data_rate=40;?>

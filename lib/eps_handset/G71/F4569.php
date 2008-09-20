@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4569;$this->product_info_model_name="WAP Browser";$this->product_info_brand_name="CheckCom";$this->markup_wml_1_2=true;$this->markup_wml_1_3=true;$this->markup_preferred_markup="wml_1_3";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4561.php");$this->ID=4569;$this->bearer_max_data_rate=40;?>

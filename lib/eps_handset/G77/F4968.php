@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G7/F491.php");$this->ID=4968;$this->bearer_max_data_rate=40;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G70/F4510.php");$this->ID=4968;$this->product_info_mobile_browser="Palm";$this->product_info_has_pointing_device=true;$this->product_info_device_os="Palm OS";$this->product_info_pointing_method="stylus";$this->product_info_model_name="Centro";?>

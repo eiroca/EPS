@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4595;$this->product_info_device_claims_web_support=true;$this->product_info_is_wireless_device=false;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G71/F4594.php");$this->ID=4595;$this->display_max_image_width=120;$this->display_resolution_width=120;?>

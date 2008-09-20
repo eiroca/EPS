@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G75/F4829.php");$this->ID=5043;$this->product_info_uaprof="http://extranet.sagem.com/UAProfile/897750.xml";$this->product_info_model_name="my411C";?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G10/F670.php");$this->ID=5043;$this->bearer_max_data_rate=200;$this->xhtml_ui_accept_third_party_cookie=false;?>

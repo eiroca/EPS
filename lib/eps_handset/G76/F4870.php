@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1238.php");$this->ID=4870;$this->product_info_model_name="SGH-C421";$this->object_download_wallpaper_preferred_height=128;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4869.php");$this->ID=4870;$this->xhtml_ui_accept_third_party_cookie=false;?>

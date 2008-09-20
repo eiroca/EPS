@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G17/F1146.php");$this->ID=4608;$this->product_info_model_name="SL7F";$this->display_max_image_width=130;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F0.php");$this->ID=4608;$this->product_info_device_claims_web_support=true;$this->product_info_is_wireless_device=false;?>
