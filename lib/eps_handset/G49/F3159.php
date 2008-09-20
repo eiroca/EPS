@@ -1,1 +1,1 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G49/F3157.php");$this->ID=3159;$this->product_info_mobile_browser="Teleca-Obigo";$this->product_info_mobile_browser_version="2.0";$this->product_info_model_name="C1150";$this->markup_xhtml_support_level=1;?>
+<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=3159;$this->product_info_model_name="Easy Shot BX5450";$this->product_info_brand_name="LG";?>
