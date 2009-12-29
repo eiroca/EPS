@@ -102,11 +102,9 @@ if (!isset ($SAJAX_INCLUDED)) {
     global $sajax_remote_uri;
     global $sajax_failure_redirect;
     $t = strtoupper($sajax_request_type);
-    if ($t != "" && $t != "GET" && $t != "POST")
-      return "// Invalid type: $t.. \n\n";
+    if ($t != "" && $t != "GET" && $t != "POST") return "// Invalid type: $t.. \n\n";
     ob_start();
 ?>
-
 		// remote scripting library
 		// (c) copyright 2005 modernmethod, inc
 		var sajax_debug_mode = <?php echo $sajax_debug_mode ? "true" : "false"; ?>;
@@ -124,12 +122,7 @@ if (!isset ($SAJAX_INCLUDED)) {
 
  			var A;
 
- 			var msxmlhttp = new Array(
-				'Msxml2.XMLHTTP.5.0',
-				'Msxml2.XMLHTTP.4.0',
-				'Msxml2.XMLHTTP.3.0',
-				'Msxml2.XMLHTTP',
-				'Microsoft.XMLHTTP');
+ 			var msxmlhttp = new Array('Msxml2.XMLHTTP.5.0','Msxml2.XMLHTTP.4.0','Msxml2.XMLHTTP.3.0','Msxml2.XMLHTTP','Microsoft.XMLHTTP');
 			for (var i = 0; i < msxmlhttp.length; i++) {
 				try {
 					A = new ActiveXObject(msxmlhttp[i]);
