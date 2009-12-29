@@ -1,6 +1,6 @@
 rss - CHANGED - added a switch between fopen() and fsockopen() in order to use proxy
 smarty - UNCHANGED -
-Image_Toolbox - CHANGED - added WBMP support
+Image_Toolbox - CHANGED - added WBMP support, fixup per JPEG
 sajax - CHANGED - changed sajax_get_my_uri()
 
 
