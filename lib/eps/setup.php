@@ -14,13 +14,13 @@ if (!defined('SITEMAP_EXTENDED')) {
 }
 
 require_once ("eps.inc");
-require_once (LIB_DIR . "utils/smarty/Smarty.class.php");
-require_once (LIB_DIR . "utils/smarty/internals/core.create_dir_structure.php");
-require_once (LIB_DIR . "utils/smarty/internals/core.rmdir.php");
-require_once (LIB_DIR . "utils/Image_Toolbox.class.php");
-require_once (EPS_DIR . "setup" . DIR_SEP ."buildWebIndex.inc");
-require_once (EPS_DIR . "setup" . DIR_SEP ."buildWebSiteMap.inc");
-require_once (EPS_DIR . "setup" . DIR_SEP ."buildSiteMap.inc");
+require_once (LIB_DIR."utils".DIR_SEP."smarty".DIR_SEP."Smarty.class.php");
+require_once (LIB_DIR."utils".DIR_SEP."smarty".DIR_SEP."internals".DIR_SEP."core.create_dir_structure.php");
+require_once (LIB_DIR."utils".DIR_SEP."smarty".DIR_SEP."internals".DIR_SEP."core.rmdir.php");
+require_once (LIB_DIR."utils".DIR_SEP."Image_Toolbox.class.php");
+require_once (EPS_DIR."setup".DIR_SEP."buildWebIndex.inc");
+require_once (EPS_DIR."setup".DIR_SEP."buildWebSiteMap.inc");
+require_once (EPS_DIR."setup".DIR_SEP."buildSiteMap.inc");
 
 function checkLibs() {
   global $smarty;

@@ -1,7 +1,13 @@
-<?
-
+<?php
+/**
+ * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.inc
+ * @author Enrico Croce & Simona Burzio (staff@eiroca.net)
+ * @copyright Copyright (C) 2003-2008 eIrOcA - Enrico Croce & Simona Burzio
+ * @version 0.5
+ * @link http://www.eiroca.net
+ */
 function writeSiteMapCategory($f, &$server, &$portal, &$link, $category) {
-  $menu = $portal[$category]["menu"];
+  $menu  = @$portal[$category]["menu"];
   $title = @$portal[$category]["description"];
   $id = substr($category, 9);
   fwrite($f, "<url>");
@@ -50,7 +56,7 @@ function writeSiteMapCategory($f, &$server, &$portal, &$link, $category) {
 
 function buildSiteMapMobile($server, $dir, &$CONFIG, $fname) {
   $link   = parse_ini_file($dir . $CONFIG["relpath_config"] . DIR_SEP . "TLink.ini", true);
-  $portal =  parse_ini_file($dir . $CONFIG["relpath_config"] . DIR_SEP . "HP". DIR_SEP . "portal.ini", true);
+  $portal = parse_ini_file($dir . $CONFIG["relpath_config"] . DIR_SEP . "HP". DIR_SEP . "portal.ini", true);
   $f = fopen($fname, "w+");
   fwrite($f, "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n");
   fwrite($f, "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n");
