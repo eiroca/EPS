@@ -1,0 +1,50 @@
+<?php /** This file is dynamically generated form WURFL XML file. */global $handset_registry;
+global $handset_default_class;
+global $handset_default_path;
+$handset_default_class = "H0";
+$handset_default_path  = "G00/F0000.php";
+$handset_registry = array(
+array("Safari/53","H13","G00/F0013.php",-1),
+array("Safari/52","H12","G00/F0012.php",-1),
+array("Safari/","H11","G00/F0011.php",-1),
+array("Opera/9.","H10","G00/F0010.php",-1),
+array("Opera/9","HF","G00/F000F.php",-1),
+array("Opera/8","HE","G00/F000E.php",-1),
+array("Opera/7","HD","G00/F000D.php",-1),
+array("Opera/1","H10","G00/F0010.php",-1),
+array("Opera 8","HE","G00/F000E.php",-1),
+array("Opera 7","HD","G00/F000D.php",-1),
+array("Opera 1","H10","G00/F0010.php",-1),
+array("Opera","HC","G00/F000C.php",-1),
+array("Nokia","H4","G00/F0004.php",-1),
+array("Mozilla/5.0 (Windows; U; Safari/53","H13","G00/F0013.php",-1),
+array("Mozilla/5.0 (Windows; U; Safari/52","H12","G00/F0012.php",-1),
+array("Mozilla/5.0 (Macintosh; U; Safari/53","H13","G00/F0013.php",-1),
+array("Mozilla/5.0 (Macintosh; U; Safari/52","H12","G00/F0012.php",-1),
+array("Mozilla/5.0 (i","H3","G00/F0003.php",-1),
+array("Mozilla/5.0","H5","G00/F0005.php",-1),
+array("Mozilla/4.0 (compatible; MSIE 8","H1A","G00/F001A.php",-1),
+array("Mozilla/4.0 (compatible; MSIE 7","H19","G00/F0019.php",-1),
+array("Mozilla/4.0 (compatible; MSIE 6","H18","G00/F0018.php",-1),
+array("Mozilla/4.0 (compatible; MSIE 5.5","H17","G00/F0017.php",-1),
+array("Mozilla/4.0 (compatible; MSIE 5.0","H16","G00/F0016.php",-1),
+array("Mozilla/4.0 (compatible; MSIE 4","H15","G00/F0015.php",-1),
+array("Mozilla/4.0 (compatible; MSIE","H14","G00/F0014.php",-1),
+array("Mozilla/4.0","H5","G00/F0005.php",-1),
+array("Konqueror/4","H22","G00/F0022.php",-1),
+array("Konqueror/3","H21","G00/F0021.php",-1),
+array("Konqueror/2","H20","G00/F0020.php",-1),
+array("Konqueror","H1F","G00/F001F.php",-1),
+array("Firefox/3.5","HB","G00/F000B.php",-1),
+array("Firefox/3.0","HA","G00/F000A.php",-1),
+array("Firefox/2","H9","G00/F0009.php",-1),
+array("Firefox/1.5","H8","G00/F0008.php",-1),
+array("Firefox/1.0","H7","G00/F0007.php",-1),
+array("Firefox","H6","G00/F0006.php",-1),
+array("CHTML","H2","G00/F0002.php",-1),
+array("Chrome/2","H1E","G00/F001E.php",-1),
+array("Chrome/1","H1D","G00/F001D.php",-1),
+array("Chrome/0","H1C","G00/F001C.php",-1),
+array("Chrome","H1B","G00/F001B.php",-1),
+);
+?>
