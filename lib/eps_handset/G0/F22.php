@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F21.php");$this->ID=22;$this->markup_xhtml_support_level=4;$this->product_info_mobile_browser_version="7.2";$this->xhtml_ui_xhtml_send_mms_string="mmsto:";$this->xhtml_ui_xhtml_send_sms_string="smsto:";?>

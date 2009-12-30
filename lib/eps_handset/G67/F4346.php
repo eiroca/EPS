@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4328.php");$this->ID=4346;$this->product_info_model_name="D506i";$this->wml_ui_wml_make_phone_call_string="none";?>

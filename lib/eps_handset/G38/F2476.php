@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G38/F2474.php");$this->ID=2476;$this->product_info_model_name="my301X";$this->sound_format_mp3=true;$this->object_download_ringtone_mp3=true;$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_1=true;$this->display_max_image_width=118;?>

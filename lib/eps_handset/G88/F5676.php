@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G47/F3012.php");$this->ID=5676;$this->product_info_mobile_browser="Semc";$this->product_info_mobile_browser_version="4.1";$this->product_info_uaprof2="http://wap.sonyericsson.com/UAprof/V800R101.xml";?>

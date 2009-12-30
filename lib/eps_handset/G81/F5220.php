@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2913.php");$this->ID=5220;$this->product_info_model_name="T105";$this->object_download_ringtone_midi_polyphonic=false;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

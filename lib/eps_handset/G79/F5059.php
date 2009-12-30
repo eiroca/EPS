@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G75/F4842.php");$this->ID=5059;$this->product_info_uaprof="http://extranet.sagem.com/UAProfile/897750.xml";$this->product_info_model_name="my411C";?>

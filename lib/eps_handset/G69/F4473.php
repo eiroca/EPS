@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G69/F4463.php");$this->ID=4473;$this->object_download_screensaver_gif=true;$this->object_download_wallpaper_jpg=true;$this->display_max_image_width=120;?>

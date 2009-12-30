@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G91/F5845.php");$this->ID=5846;$this->product_info_nokia_edition=5;$this->flash_lite_flash_lite_version="2_1";?>

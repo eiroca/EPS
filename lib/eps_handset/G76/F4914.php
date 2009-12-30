@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4913.php");$this->ID=4914;$this->product_info_model_name="ME770c";$this->object_download_ringtone_voices=16;$this->object_download_video=true;$this->display_max_image_width=212;$this->display_resolution_width=220;?>

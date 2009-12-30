@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G13/F893.php");$this->ID=4645;$this->bearer_max_data_rate=384;$this->xhtml_ui_xhtml_supports_width_as_percentage=true;$this->css_css_supports_width_as_percentage=true;?>

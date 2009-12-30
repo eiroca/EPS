@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G18/F1178.php");$this->ID=4656;$this->product_info_model_name="PM-A840";$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

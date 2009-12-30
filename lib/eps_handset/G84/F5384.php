@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G6/F431.php");$this->ID=5384;$this->object_download_video_max_width=320;$this->object_download_video_max_height=240;$this->object_download_video_vcodec_h263_0=true;?>

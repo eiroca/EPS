@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4920.php");$this->ID=5549;$this->product_info_uaprof="http://gsm.lge.com/html/gsm/LG-MG320c.xml";?>

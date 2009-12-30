@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F291.php");$this->ID=5894;$this->mms_mms_max_size=250000;$this->mms_mms_max_width=1600;$this->mms_mms_max_height=1200;$this->product_info_uaprof="http://www.arcsoft.com/mobile/UAProf/ArcSoft-MMSUA-PPC-v40.xml";?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3415.php");$this->ID=3416;$this->product_info_model_name="VX8000 (Verizon Wireless)";$this->object_download_wallpaper_png=false;$this->object_download_ringtone_mp3=true;?>

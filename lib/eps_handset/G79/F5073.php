@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F189.php");$this->ID=5073;$this->bearer_wifi=true;$this->bearer_max_data_rate=40;$this->product_info_unique=false;$this->product_info_release_date="2005_january";?>

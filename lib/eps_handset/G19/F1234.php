@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1233.php");$this->ID=1234;$this->product_info_mobile_browser="Nokia";$this->product_info_mobile_browser_version="3.0.1";$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/SGH-C400.xml";$this->bearer_max_data_rate=40;?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1274.php");$this->ID=5213;$this->product_info_model_name="SGH-E746";$this->object_download_wallpaper_colors=16;$this->object_download_wallpaper_preferred_width=128;$this->object_download_wallpaper_preferred_height=160;?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4317.php");$this->ID=4319;$this->product_info_model_name="F504i";$this->display_max_image_width=112;$this->display_rows=8;$this->display_resolution_height=136;$this->display_resolution_width=132;$this->display_max_image_height=102;?>

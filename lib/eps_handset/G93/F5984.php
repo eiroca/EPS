@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G80/F5169.php");$this->ID=5984;$this->product_info_mobile_browser="WinWAP";$this->product_info_mobile_browser_version="";$this->product_info_uaprof="";$this->product_info_model_name="Juno";?>

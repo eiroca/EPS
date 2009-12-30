@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G35/F2248.php");$this->ID=2249;$this->product_info_model_name="V66i";$this->object_download_ringtone_imelody=true;$this->object_download_ringtone=true;$this->j2me_j2me_cldc_1_0=true;$this->j2me_j2me_midp_1_0=true;$this->sms_ems=true;?>

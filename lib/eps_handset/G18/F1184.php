@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G18/F1183.php");$this->ID=1184;$this->product_info_model_name="SCH-A870 (Verizon Wireless)";$this->object_download_ringtone_mp3=false;?>

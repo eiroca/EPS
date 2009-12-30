@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F245.php");$this->ID=5877;$this->product_info_mobile_browser_version="6.8";$this->product_info_uaprof="http://www.htcmms.com.tw/gen/Hermes-2.0.xml";$this->bearer_max_data_rate=40;?>

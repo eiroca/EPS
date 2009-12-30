@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5074.php");$this->ID=5785;$this->product_info_model_name="N95, 8GB (North America)";$this->xhtml_ui_xhtml_supports_width_as_percentage=true;$this->css_css_supports_width_as_percentage=true;?>

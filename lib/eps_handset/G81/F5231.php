@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G52/F3382.php");$this->ID=5231;$this->product_info_model_name="MG-810d";$this->object_download_ringtone_voices=16;$this->object_download_wallpaper_colors=16;$this->object_download_wallpaper_preferred_width=96;$this->object_download_wallpaper_preferred_height=96;?>

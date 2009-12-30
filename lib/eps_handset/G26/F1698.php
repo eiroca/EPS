@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G26/F1696.php");$this->ID=1698;$this->product_info_model_name="SGH-V205";$this->display_columns=14;$this->display_rows=7;$this->mms_mms_max_width=128;$this->mms_mms_max_height=160;?>

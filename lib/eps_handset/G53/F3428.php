@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G53/F3427.php");$this->ID=3428;$this->product_info_model_name="VX9800 (Verizon Wireless)";$this->object_download_wallpaper_png=false;?>

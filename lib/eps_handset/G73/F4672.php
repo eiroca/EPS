@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G23/F1529.php");$this->ID=4672;$this->object_download_wallpaper_colors=16;$this->object_download_wallpaper_preferred_width=128;$this->object_download_wallpaper_preferred_height=160;?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G7/F492.php");$this->ID=497;$this->bearer_max_data_rate=384;$this->product_info_mobile_browser="Opera";$this->product_info_mobile_browser_version="8.65";?>

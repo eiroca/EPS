@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G20/F1280.php");$this->ID=6227;$this->product_info_uaprof="http://wap.samsungmobile.com/uaprof/F330UAProf.rdf";?>

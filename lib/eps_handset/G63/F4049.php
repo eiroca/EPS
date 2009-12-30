@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=4049;$this->product_info_model_name="F600";$this->product_info_brand_name="Capitel";$this->display_max_image_width=118;$this->display_resolution_width=128;?>

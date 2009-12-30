@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G46/F2988.php");$this->ID=2994;$this->j2me_j2me_wmapi_1_0=true;$this->product_info_uaprof="http://wap.sonyericsson.com/UAprof/T637R101.xml";$this->product_info_model_name="T637";$this->product_info_uaprof2="";$this->bearer_max_data_rate=40;?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F168.php");$this->ID=181;$this->product_info_model_name="BlackBerry 8707v";$this->bearer_max_data_rate=384;?>

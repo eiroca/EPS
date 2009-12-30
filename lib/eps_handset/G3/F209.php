@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G3/F201.php");$this->ID=209;$this->product_info_model_name="iPAQ H6300 series";$this->product_info_brand_name="HP";$this->bearer_wifi=true;?>

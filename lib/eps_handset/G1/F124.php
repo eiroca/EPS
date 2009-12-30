@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G1/F123.php");$this->ID=124;$this->product_info_uaprof="http://www.blackberry.net/go/mobile/profiles/uaprof/7230/4.0.2.rdf";$this->j2me_j2me_midp_2_0=true;$this->j2me_j2me_cldc_1_1=true;$this->object_download_ringtone_spmidi=true;$this->bearer_max_data_rate=40;?>

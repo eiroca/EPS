@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G64/F4101.php");$this->ID=4102;$this->product_info_model_name="M3100";$this->mms_built_in_camera=true;?>

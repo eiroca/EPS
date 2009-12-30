@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G74/F4743.php");$this->ID=4921;$this->product_info_model_name="MG320D";$this->markup_preferred_markup="html_wi_oma_xhtmlmp_1_0";$this->object_download_ringtone_voices=64;$this->object_download_video_mp4=true;$this->object_download_video=true;?>

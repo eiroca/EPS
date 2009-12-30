@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G4/F258.php");$this->ID=5204;$this->product_info_brand_name="SPV";$this->object_download_ringtone_mp3=true;$this->object_download_wallpaper_preferred_width=129;$this->object_download_ringtone_awb=true;$this->bearer_max_data_rate=40;?>

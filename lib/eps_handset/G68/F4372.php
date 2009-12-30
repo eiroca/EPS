@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4371.php");$this->ID=4372;$this->product_info_model_name="Fujitsu 901iC";$this->sound_format_aac=true;$this->display_columns=23;$this->display_rows=12;?>

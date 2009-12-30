@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G68/F4363.php");$this->ID=4371;$this->product_info_model_name="901i Series";$this->flash_lite_flash_lite_version="1_1";?>

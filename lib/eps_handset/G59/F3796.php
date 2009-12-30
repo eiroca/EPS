@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G59/F3786.php");$this->ID=3796;$this->product_info_uaprof="http://sharp-mobile.com/UAprof/GX10N.xml";$this->product_info_model_name="TQ-GX10N";?>

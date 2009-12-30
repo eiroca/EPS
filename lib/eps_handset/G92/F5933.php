@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G75/F4807.php");$this->ID=5933;$this->product_info_model_name="JASJAM";$this->product_info_brand_name="i-mate";$this->bearer_wifi=true;?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F16.php");$this->ID=1460;$this->product_info_model_name="SPH-A500";$this->product_info_brand_name="Samsung";$this->display_max_image_width=116;$this->display_resolution_width=128;?>

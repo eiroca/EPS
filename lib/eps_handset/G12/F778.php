@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G12/F777.php");$this->ID=778;$this->product_info_model_name="8310e";$this->display_max_image_height=36;?>

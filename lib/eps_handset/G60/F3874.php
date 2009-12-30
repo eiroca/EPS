@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G60/F3869.php");$this->ID=3874;$this->product_info_model_name="SX833";$this->j2me_j2me_midp_2_0=true;?>

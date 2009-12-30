@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G2/F189.php");$this->ID=233;$this->product_info_model_name="S410";$this->product_info_brand_name="HTC";$this->object_download_wallpaper=true;?>

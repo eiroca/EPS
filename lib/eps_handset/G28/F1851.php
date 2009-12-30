@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G28/F1842.php");$this->ID=1851;$this->product_info_model_name="One Touch 311";$this->display_rows=6;$this->display_resolution_height=65;$this->display_max_image_height=48;$this->storage_max_deck_size=2000;?>

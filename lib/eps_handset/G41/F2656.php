@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G41/F2655.php");$this->ID=2656;$this->xhtml_ui_xhtml_supports_file_upload=true;$this->xhtml_ui_xhtml_file_upload="supported";$this->display_max_image_width=120;$this->display_resolution_width=128;?>

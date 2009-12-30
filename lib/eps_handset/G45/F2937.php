@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G45/F2936.php");$this->ID=2937;$this->product_info_uaprof="http://wap.sonyericssonmobile.com/UAprof/T302R201.xml";$this->product_info_model_name="T302";$this->product_info_uaprof2="http://wap.sonyericsson.com/UAprof/T302R201.xml";$this->display_max_image_height=60;?>

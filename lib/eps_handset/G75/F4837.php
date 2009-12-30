@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G12/F782.php");$this->ID=4837;$this->product_info_model_name="Unrecognized Vertu (expensive phone)";$this->product_info_brand_name="Vertu";$this->bearer_max_data_rate=40;?>

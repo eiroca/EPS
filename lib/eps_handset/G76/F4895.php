@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G19/F1271.php");$this->ID=4895;$this->product_info_model_name="SGH-E570L";$this->object_download_ringtone_amr=true;$this->object_download_wallpaper_jpg=true;$this->object_download_screensaver=true;?>

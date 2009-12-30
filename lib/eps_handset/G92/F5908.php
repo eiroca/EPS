@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G72/F4615.php");$this->ID=5908;$this->product_info_model_name="Playstation 3";$this->product_info_brand_name="Sony";?>

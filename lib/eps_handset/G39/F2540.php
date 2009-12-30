@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G39/F2539.php");$this->ID=2540;$this->markup_html_wi_oma_xhtmlmp_1_0=true;$this->markup_preferred_markup="html_wi_oma_xhtmlmp_1_0";$this->markup_xhtml_support_level=1;$this->bearer_max_data_rate=9;?>

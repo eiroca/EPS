@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G83/F5352.php");$this->ID=5353;$this->product_info_model_name="N2020";$this->object_download_ringtone_voices=32;$this->display_columns=16;$this->display_rows=8;$this->display_max_image_height=96;?>

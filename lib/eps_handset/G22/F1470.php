@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G22/F1469.php");$this->ID=1470;$this->product_info_model_name="SGH-C108t";$this->display_max_image_width=89;$this->display_resolution_width=100;?>

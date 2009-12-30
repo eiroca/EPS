@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G21/F1380.php");$this->ID=1381;$this->product_info_mobile_browser="Nokia";$this->product_info_mobile_browser_version="3.0";$this->product_info_uaprof="http://wap.samsunwap.samsungmobile.com/uaprof/x427m_10.xml";?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F19.php");$this->ID=3570;$this->product_info_model_name="N810";$this->product_info_brand_name="NEC";$this->display_max_image_width=155;$this->display_resolution_width=160;?>

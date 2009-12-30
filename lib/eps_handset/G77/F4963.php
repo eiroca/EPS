@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G62/F4008.php");$this->ID=4963;$this->product_info_model_name="G'zOne Type-S (Verizon Wireless)";$this->image_format_gif_animated=true;$this->object_download_wallpaper_jpg=true;?>

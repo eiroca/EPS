@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G12/F805.php");$this->ID=821;$this->product_info_model_name="1100b";$this->sms_nokiaring=true;$this->sms_operatorlogo=true;$this->sms_callericon=true;$this->sms_picturemessage=true;$this->object_download_wallpaper_gif=true;?>

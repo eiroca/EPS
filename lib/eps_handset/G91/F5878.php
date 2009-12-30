@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G79/F5080.php");$this->ID=5878;$this->product_info_model_name="Atmos";$this->product_info_brand_name="XDA";?>

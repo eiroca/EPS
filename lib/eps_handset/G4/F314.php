@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F4.php");$this->ID=314;$this->image_format_gif=true;$this->image_format_gif_animated=true;$this->markup_html_wi_w3_xhtmlbasic=true;$this->xhtml_ui_xhtml_table_support=true;?>

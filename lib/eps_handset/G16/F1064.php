@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G16/F1063.php");$this->ID=1064;$this->product_info_uaprof="http://communication-market.siemens.de/UAProf/ST60_01.xml";$this->object_download_ringtone_wav=true;?>

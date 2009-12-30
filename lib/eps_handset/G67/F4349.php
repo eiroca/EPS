@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G67/F4348.php");$this->ID=4349;$this->product_info_model_name="F2051";$this->display_columns=12;$this->display_max_image_width=161;$this->display_rows=13;$this->display_resolution_height=182;$this->display_max_image_height=136;?>

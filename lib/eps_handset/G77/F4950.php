@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G34/F2210.php");$this->ID=4950;$this->object_download_wallpaper_jpg=true;$this->object_download_ringtone_midi_polyphonic=true;$this->product_info_model_name="L7c (Verizon Wireless)";?>

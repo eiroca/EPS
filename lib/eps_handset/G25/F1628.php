@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G25/F1626.php");$this->ID=1628;$this->product_info_model_name="SGH-P108";$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

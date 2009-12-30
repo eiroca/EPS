@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G5/F321.php");$this->ID=5620;$this->mms_mms_max_size=102400;$this->mms_mms_max_width=640;$this->mms_mms_max_height=480;?>

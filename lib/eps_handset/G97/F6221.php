@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G90/F5806.php");$this->ID=6221;$this->product_info_uaprof="http://uaprof.bellmobilite.ca/Samsung_SPHM800.rdf";$this->product_info_model_name="Instinct (SPH-M800) Bell Mobility";$this->product_info_uaprof2="";?>

@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4891.php");$this->ID=5211;$this->product_info_model_name="SGH-B460";$this->object_download_oma_support=true;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>

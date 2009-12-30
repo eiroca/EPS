@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G76/F4912.php");$this->ID=4913;$this->product_info_model_name="ME550c";$this->object_download_video=true;$this->display_max_image_width=169;$this->display_resolution_width=176;?>

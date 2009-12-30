@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G0/F20.php");$this->ID=5998;$this->product_info_uaprof="http://www.pocket.com/phone_data/CDM8615.xml";$this->product_info_model_name="CDM8615";$this->product_info_brand_name="Audiovox";$this->product_info_release_date="2008_august";?>

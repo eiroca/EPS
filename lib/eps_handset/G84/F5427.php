@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G84/F5408.php");$this->ID=5427;$this->product_info_model_name="iPhone (Aspen SDK)";$this->product_info_release_date="2008_march";?>

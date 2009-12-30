@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G93/F6002.php");$this->ID=6003;$this->product_info_mobile_browser="Opera";$this->product_info_mobile_browser_version="8.60";?>

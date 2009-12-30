@@ -1,1 +1,0 @@
-<?php /** This file is dynamically generated form WURFL XML file. */include_once(EPS_HANDSET_DIR."G6/F427.php");$this->ID=428;$this->product_info_model_name="5210e";$this->display_max_image_height=36;$this->markup_xhtml_support_level=-1;$this->markup_preferred_markup="wml_1_1";?>
