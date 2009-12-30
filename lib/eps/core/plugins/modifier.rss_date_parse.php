@@ -1,25 +1,19 @@
 <?php
-/*
- * Smarty plugin
- * -------------------------------------------------------------
- * Type:     modifier
- * Name:     rss_date_parse
- * Purpose:  parse rss date into unix epoch
- * Input:    string: rss date
- *			 default_date:  default date if $rss_date is empty
- *
- * NOTE!!!  parse_w3cdtf provided by MagpieRSS's rss_utils.inc
- *          this file needs to be included somewhere in your script
- * -------------------------------------------------------------
+/**
+ * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.inc
+ * @author Enrico Croce & Simona Burzio (staff@eiroca.net)
+ * @copyright Copyright (C) 2003-2010 eIrOcA - Enrico Croce & Simona Burzio
+ * @version 0.5.1
+ * @link http://www.eiroca.net
  */
 function smarty_modifier_rss_date_parse($rss_date, $default_date = null) {
-  if ($rss_date != '') {
-    return parse_w3cdtf($rss_date);
-  }
-  elseif (isset ($default_date) && $default_date != '') {
-    return parse_w3cdtf($default_date);
-  } else {
-    return;
-  }
+	if ($rss_date != '') {
+		return parse_w3cdtf($rss_date);
+	}
+	elseif (isset ($default_date) && $default_date != '') {
+		return parse_w3cdtf($default_date);
+	} else {
+		return;
+	}
 }
 ?>
