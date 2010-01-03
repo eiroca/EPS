@@ -26,7 +26,7 @@
  * @link http://www.eiroca.net
  */
 if (!defined('EPS')) {
-	define('EPS', "0.4.0");
+	define('EPS', "0.5.1");
 }
 if (!defined('DIR_SEP')) {
 	define('DIR_SEP', DIRECTORY_SEPARATOR);
