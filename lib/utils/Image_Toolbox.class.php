@@ -153,7 +153,10 @@ class Image_Toolbox {
 				$this->_types[1]['supported'] = 2;
 			}
 		}
-		if ($gd_info['JPG Support']==false) {
+		if ($gd_info['JPG Support']) {
+			$this->_types[2]['supported'] = 2;
+		}
+		else if ($gd_info['JPEG Support']) {
 			$this->_types[2]['supported'] = 2;
 		}
 		if ($gd_info['PNG Support']) {
