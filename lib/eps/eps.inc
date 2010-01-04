@@ -25,33 +25,15 @@
  * @version 0.5.1
  * @link http://www.eiroca.net
  */
-if (!defined('EPS')) {
-	define('EPS', "0.5.1");
-}
-if (!defined('DIR_SEP')) {
-	define('DIR_SEP', DIRECTORY_SEPARATOR);
-}
-if (!defined('EPS_DIR')) {
-	define('EPS_DIR', dirname(__FILE__) . DIR_SEP);
-}
-if (!defined('LIB_DIR')) {
-	define('LIB_DIR', EPS_DIR . ".." . DIR_SEP);
-}
-if (!defined('SRV_DIR')) {
-	define('SRV_DIR', LIB_DIR . "eps_services" . DIR_SEP);
-}
-if (!defined('EPS_HANDSET_DIR')) {
-	define('EPS_HANDSET_DIR', LIB_DIR . "eps_handset" . DIRECTORY_SEPARATOR);
-}
-if (!defined('BASE_DIR')) {
-	define('BASE_DIR', LIB_DIR . ".." . DIR_SEP);
-}
-if (!defined('EPS_CORE_DIR')) {
-	define('EPS_CORE_DIR', EPS_DIR . "core" . DIR_SEP);
-}
-if (!defined('YADS')) {
-	define('YADS', EPS_DIR . "download.inc");
-}
+if (!defined('EPS'))             define('EPS', "0.5.1");
+if (!defined('DIR_SEP'))         define('DIR_SEP', DIRECTORY_SEPARATOR);
+if (!defined('EPS_DIR'))         define('EPS_DIR', dirname(__FILE__) . DIR_SEP);
+if (!defined('LIB_DIR'))         define('LIB_DIR', EPS_DIR . ".." . DIR_SEP);
+if (!defined('SRV_DIR'))         define('SRV_DIR', LIB_DIR . "eps_services" . DIR_SEP);
+if (!defined('EPS_HANDSET_DIR')) define('EPS_HANDSET_DIR', LIB_DIR . "eps_handset" . DIRECTORY_SEPARATOR);
+if (!defined('BASE_DIR'))        define('BASE_DIR', LIB_DIR . ".." . DIR_SEP);
+if (!defined('EPS_CORE_DIR'))    define('EPS_CORE_DIR', EPS_DIR . "core" . DIR_SEP);
+if (!defined('YADS'))            define('YADS', EPS_DIR . "download.inc");
 unset ($CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE, $USER);
 global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE, $USER;
 @include ("eps_config.inc");

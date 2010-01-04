@@ -10,8 +10,8 @@ define(MAGPIE_GETMODE, 1);
 define(MAGPIE_CACHE_ON, true);
 define(MAGPIE_CACHE_DIR, $CONFIG["path_cache_eps"].DIR_SEP."services".DIR_SEP."RSS");
 global $CONFIG;
-require_once (EPS_DIR."utils".DIR_SEP."rss".DIR_SEP."rss_fetch.inc");
-require_once (EPS_DIR."utils".DIR_SEP."rss".DIR_SEP."rss_utils.inc");
+require_once (LIB_DIR."utils".DIR_SEP."rss".DIR_SEP."rss_fetch.inc");
+require_once (LIB_DIR."utils".DIR_SEP."rss".DIR_SEP."rss_utils.inc");
 class RSSPage extends TPage {
 	var $rid;
 	var $rss;
