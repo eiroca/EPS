@@ -29,6 +29,7 @@ function smarty_function_prologue($params, &$smarty) {
 				}
 			}
 		}
+		echo "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />";
 	}
 	echo "<title>" . $PAGE->getTitle() . "</title>";
 	echo "</head>";

@@ -3,6 +3,7 @@
  <head>
   <link rel="icon" href="../static/ico/eiroca.ico" />
   <link rel="stylesheet" type="text/css" href="../static/css/eiroca.css" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Mobile Portal</title>
  </head>
  <body>
