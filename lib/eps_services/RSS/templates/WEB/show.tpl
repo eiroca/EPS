@@ -10,7 +10,7 @@
       {if $info.slash.comments}commenti: {$info.slash.comments}{br}
       {/if}
     </small>
-    Per andare a leggere la notizia clicka {link ref="rss_link"}
+    Per andare a leggere la notizia clicca {link ref="rss_link"}
     {br}
     {link ref="rss_next"} {link ref="rss_prev"}
   </p>

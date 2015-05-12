@@ -1,29 +1,33 @@
 <?php
 /**
- * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.inc
+ * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.php
+ *
  * @author Enrico Croce & Simona Burzio (staff@eiroca.net)
- * @copyright Copyright (C) 2003-2010 eIrOcA - Enrico Croce & Simona Burzio
+ * @copyright Copyright (C) 2003-2015 eIrOcA - Enrico Croce & Simona Burzio
  * @version 0.5.1
  * @link http://www.eiroca.net
  */
-require_once (LIB_DIR."utils".DIR_SEP."smarty".DIR_SEP."Smarty.class.php");
+require_once (LIB_DIR . 'utils' . DIR_SEP . 'smarty' . DIR_SEP . 'Smarty.class.php');
 $_f_c_registry = array ();
 $_f_c_path_common = NULL;
 $_f_c_defs_common = array ();
 $_f_c_path_service = NULL;
 $_f_c_defs_service = array ();
+
 function writeAttr(&$params, $attr) {
 	foreach ($attr as $a) {
 		$val = $params[$a];
 		if ($val) {
-			echo " $a=\"$val\"";
+			echo ' ' . $a . '="' . $val . '"';
 		}
 	}
 }
+
 function register_resource($kind, &$id, &$res) {
 	global $_f_c_registry;
 	$_f_c_registry[$kind][$id] = $res;
 }
+
 function _getDefFromService(&$kind, &$id) {
 	global $CONTEXT;
 	global $CONFIG;
@@ -32,18 +36,26 @@ function _getDefFromService(&$kind, &$id) {
 	$data = $_f_c_defs_service[$kind];
 	if ($data == NULL) {
 		if ($_f_c_path_service == NULL) {
-			$_f_c_path_service = SRV_DIR . $CONTEXT->service->namespace . "/" . $CONFIG["relpath_config"] . "/";
+			if (isset($CONTEXT->service)) {
+				$namespace = $CONTEXT->service->namespace . DIR_SEP;
+			}
+			else {
+				$namespace = "";
+			}
+			$_f_c_path_service = SRV_DIR . $namespace . $CONFIG['relpath_config'] . DIR_SEP;
 		}
-		$file = $_f_c_path_service . $kind . ".ini";
+		$file = $_f_c_path_service . $kind . '.ini';
 		if (file_exists($file)) {
 			$data = parse_ini_file($file, true);
-		} else {
+		}
+		else {
 			$data = array ();
 		}
 		$_f_c_defs_service[$kind] = $data;
 	}
-	return $data[$id];
+	return isset($data[$id]) ? $data[$id] : NULL;
 }
+
 function _getDefFromCommon(&$kind, &$id) {
 	global $CONFIG;
 	global $_f_c_path_common;
@@ -51,43 +63,52 @@ function _getDefFromCommon(&$kind, &$id) {
 	$data = $_f_c_defs_common[$kind];
 	if ($data == NULL) {
 		if ($_f_c_path_common == NULL) {
-			$_f_c_path_common = "./" . $CONFIG["relpath_config"] . "/";
+			$_f_c_path_common = '.' . DIR_SEP . $CONFIG['relpath_config'] . DIR_SEP;
 		}
-		$file = $_f_c_path_common . $kind . ".ini";
+		$file = $_f_c_path_common . $kind . '.ini';
 		if (file_exists($file)) {
 			$data = parse_ini_file($file, true);
-		} else {
+		}
+		else {
 			$data = array ();
 		}
 		$_f_c_defs_common[$kind] = $data;
 	}
-	return $data[$id];
+	return isset($data[$id]) ? $data[$id] : NULL;
 }
+
 function getResourceById($kind, &$id) {
 	global $_f_c_registry;
-	$res = $_f_c_registry[$kind][$id];
-	if ($res == NULL) {
+	$res = NULL;
+	if (isset($_f_c_registry[$kind][$id])) {
+		$res = $_f_c_registry[$kind][$id];
+	}
+	else {
 		$def = _getDefFromService($kind, $id);
 		if (!$def) {
 			$def = _getDefFromCommon($kind, $id);
 		}
 		if ($def) {
-			$res = new $kind ($def);
+			$res = new $kind($def);
 			register_resource($kind, $id, $res);
 		}
 	}
 	return $res;
 }
+
 class TControl {
+
 	function isCompatible(&$handset) {
 		return TRUE;
 	}
+
 	function build(&$info) {
 		foreach ($info as $nam => $val) {
-			$this-> $nam = $val;
+			$this->$nam = $val;
 		}
 	}
 }
+
 class TImage extends TControl {
 	var $style;
 	var $alt_text;
@@ -97,64 +118,92 @@ class TImage extends TControl {
 	var $height;
 	var $colors;
 	var $size;
+
 	function TImage(&$info) {
 		$this->build($info);
 	}
 }
+
 class TIcon extends TControl {
 	var $images;
 	var $alt_text;
+
 	function TIcon(&$info) {
 		$this->build($info);
-		$this->images = explode(" ", $this->images);
+		$this->images = explode(' ', $this->images);
 	}
 }
+
 class TLink extends TControl {
 	var $style;
 	var $caption;
 	var $url;
 	var $icon;
 	var $access_key;
-	function TLink(&$info) {
-		$this->build($info);
+
+	function TLink($caption_or_info, $url = NULL, $icon = NULL) {
+		if (is_array($caption_or_info)) {
+			$this->build($caption_or_info);
+		}
+		else {
+			$this->caption = $caption_or_info;
+			$this->url = $url;
+			if ($icon != NULL) {
+				$this->icon = $icon;
+			}
+		}
 	}
 }
+
 class TPage {
 	var $_confcache;
 	var $_template;
-	var $_title = "noname";
-	var $_name = "generic";
+	var $_title = 'noname';
+	var $_name = 'generic';
 	var $_cacheKey;
 	var $_objects;
 	var $clientCachePolicy;
 	var $proxyCachePolicy;
 	var $serverCachePolicy;
+
 	function TPage(&$res) {
 		global $HANDSET;
 		$this->clientCachePolicy = 86400;
 		$this->proxyCachePolicy = 0;
 		$this->serverCachePolicy = 604800;
 		$this->_cacheKey[] = $HANDSET->ID;
-		if ($res["title"]) {
-			$this->_title = $res["title"];
+		if (isset($res['title'])) {
+			$this->_title = $res['title'];
 		}
-		if ($res["template"]) {
-			$this->_template = $res["template"];
+		if (isset($res['template'])) {
+			$this->_template = $res['template'];
 			$this->_cacheKey[] = $this->_template;
 		}
 	}
+
 	function setup(&$cached) {
 	}
+
 	function loadConf($path) {
 		global $SERVICE;
 		$path = $SERVICE->findData($path);
 		$conf = $this->_confcache[$path];
 		if (!$conf) {
 			$conf = parse_ini_file($path, true);
-			$this->conf[$path] = $conf;
+			$this->_confcache[$path] = $conf;
 		}
 		return $conf;
 	}
+
+	function getConf($prop, $def = NULL) {
+		if (isset($this->conf[$prop])) {
+			return $this->conf[$prop];
+		}
+		else {
+			return $def;
+		}
+	}
+
 	function saveExitPoint($url = NULL, $cap = NULL, $icon = NULL) {
 		global $CONTEXT;
 		$CONTEXT->portalMetadata->exit_url = $url;
@@ -162,6 +211,7 @@ class TPage {
 		$CONTEXT->portalMetadata->exit_icon = $icon;
 		$CONTEXT->portalMetadata->store();
 	}
+
 	function registerChannelLink($exitPoint = false) {
 		global $CONTEXT;
 		global $SERVICE;
@@ -175,113 +225,148 @@ class TPage {
 				$def['icon'] = $icon;
 			}
 			$def['caption'] = $cap;
-			$this->register_link("channel", new TLink($def));
-		} else {
+			$this->register_link('channel', new TLink($def));
+		}
+		else {
 			// Parent Servizio
-			$serviceID = $SERVICE->serviceID . "_parent";
-			$res = &getResourceById("TLink", $serviceID);
-			$this->register_link("channel", $res);
+			$serviceID = $SERVICE->serviceID . '_parent';
+			$res = &getResourceById('TLink', $serviceID);
+			$this->register_link('channel', $res);
 		}
 	}
+
+	function getRequestVar($var, $def = NULL, $urlencode = true) {
+		global $_REQUEST;
+		if (isset($_REQUEST[$var])) {
+			$res = $_REQUEST[$var];
+		}
+		else {
+			$res = $def;
+		}
+		if ($urlencode) {
+			$res = urlencode($res);
+		}
+		return $res;
+	}
+
 	function getStyleSheetURL() {
 		global $SERVICE;
 		return array (
-      "" => "style.php?s=" . $SERVICE->namespace,
-      "handheld" => "style.php?s=" . $SERVICE->namespace
+				'' => 'style.php?s=' . $SERVICE->namespace, 
+				'handheld' => 'style.php?s=' . $SERVICE->namespace 
 		);
 	}
+
 	function getFooterLinks() {
 		return NULL;
 	}
+
 	function getName() {
 		return $this->_name;
 	}
+
 	function getTemplate() {
 		return $this->_template;
 	}
+
 	function getTitle() {
 		return $this->_title;
 	}
+
 	function getCacheID() {
 		if ($this->_cacheKey) {
 			$cacheID = NULL;
 			foreach ($this->_cacheKey as $key) {
 				if ($cacheID) {
-					$cacheID .= " $key";
-				} else {
+					$cacheID .= ' ' . $key;
+				}
+				else {
 					$cacheID = $key;
 				}
 			}
 			return $cacheID;
-		} else {
+		}
+		else {
 			return null;
 		}
 	}
+
 	function getClientCachePolicy() {
 		return $this->clientCachePolicy;
 	}
+
 	function getProxyCachePolicy() {
 		return $this->proxyCachePolicy;
 	}
+
 	function getServerCachePolicy() {
 		return $this->serverCachePolicy;
 	}
+
 	function register_icon($id, &$res) {
-		register_resource("TIcon", $id, $res);
+		register_resource('TIcon', $id, $res);
 	}
+
 	function register_image($id, &$res) {
-		register_resource("TImage", $id, $res);
+		register_resource('TImage', $id, $res);
 	}
+
 	function register_link($id, &$res) {
-		register_resource("TLink", $id, $res);
+		register_resource('TLink', $id, $res);
 	}
 }
+
 class TRender {
 	var $smarty;
 	var $template;
 	var $cacheID;
+
 	function TRender() {
 	}
+
 	function getCacheTemplateDir() {
 		global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
 		$subdir = $CONTEXT->renderClass;
-		return $CONFIG["path_cache_srv"] . "templates" . DIR_SEP. $subdir;
+		return $CONFIG['path_cache_srv'] . 'templates' . DIR_SEP . $subdir;
 	}
+
 	function getCachePageDir() {
 		global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
 		$subdir = $CONTEXT->renderClass;
-		return $CONFIG["path_cache_srv"] . "pages" . DIR_SEP. $subdir;
+		return $CONFIG['path_cache_srv'] . 'pages' . DIR_SEP . $subdir;
 	}
+
 	function getTemplateDir() {
 		global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
 		$subdir = $CONTEXT->renderClass;
-		$base1 = SRV_DIR . $SERVICE->namespace . DIR_SEP . $CONFIG["relpath_template"];
-		$base2 = "." . DIR_SEP . $CONFIG["relpath_template"];
+		$base1 = SRV_DIR . $SERVICE->namespace . DIR_SEP . $CONFIG['relpath_template'];
+		$base2 = '.' . DIR_SEP . $CONFIG['relpath_template'];
 		$dirs = array (
-		$base2 . DIR_SEP . $SERVICE->namespace . DIR_SEP . $subdir,
-		$base2 . DIR_SEP . $SERVICE->namespace,
-		$base1 . DIR_SEP . $subdir,
-		$base1,
-		$base2 . DIR_SEP . $subdir,
-		$base2
+				$base2 . DIR_SEP . $SERVICE->namespace . DIR_SEP . $subdir, 
+				$base2 . DIR_SEP . $SERVICE->namespace, 
+				$base1 . DIR_SEP . $subdir, 
+				$base1, 
+				$base2 . DIR_SEP . $subdir, 
+				$base2 
 		);
 		return $dirs;
 	}
+
 	function writeHTTPHeader() {
 		global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
-		Header("Content-type: " . $HANDSET->getContentType());
+		Header('Content-type: ' . $HANDSET->getContentType());
 		$cache = $PAGE->getClientCachePolicy();
 		switch ($cache) {
 			case -2 :
 				{
-					Header("Cache-Control: no-cache, must-revalidate");
-					Header("Pragma: no-cache");
+					Header('Cache-Control: no-cache, must-revalidate');
+					Header('Pragma: no-cache');
 					break;
 				}
 			case -1 :
 				{
-					Header("Cache-Control: no-cache");
-					Header("Pragma: no-cache");
+					Header('Cache-Control: no-cache');
+					Header('Pragma: no-cache');
 					break;
 				}
 			case 0 :
@@ -290,20 +375,21 @@ class TRender {
 				}
 			default :
 				{
-					Header("Cache-Control: max-age=$cache");
+					Header('Cache-Control: max-age=' . $cache);
 					break;
 				}
 		}
 	}
+
 	function getSmarty() {
 		global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
 		$rc = $CONTEXT->renderClass;
-		$path = EPS_CORE_DIR . "plugins/" . $rc;
-		$smarty = new Smarty;
+		$path = EPS_CORE_DIR . 'plugins' . DIR_SEP . $rc;
+		$smarty = new Smarty();
 		$smarty->plugins_dir = array (
-      "plugins",
-		$path,
-		EPS_CORE_DIR . "plugins"
+				'plugins', 
+				$path, 
+				EPS_CORE_DIR . 'plugins' 
 		);
 		$smarty->compile_dir = $this->getCacheTemplateDir();
 		$smarty->cache_dir = $this->getCachePageDir();
@@ -312,6 +398,7 @@ class TRender {
 		$smarty->compile_id = $SERVICE->serviceID;
 		return $smarty;
 	}
+
 	function process() {
 		global $CONFIG, $CONTEXT, $HANDSET, $SERVICE, $PAGE;
 		$this->smarty = $this->getSmarty();
@@ -327,7 +414,7 @@ class TRender {
 			$this->cacheID = null;
 			$this->smarty->caching = false;
 		}
-		$this->template = $PAGE->getTemplate() . ".tpl";
+		$this->template = $PAGE->getTemplate() . '.tpl';
 		if ($this->cacheID != NULL) {
 			$cached = $this->smarty->is_cached($this->template, $this->cacheID);
 		}
@@ -337,14 +424,14 @@ class TRender {
 		$PAGE->setup($cached);
 		$PAGE->registerChannelLink(false);
 		$this->writeHTTPHeader();
-		$this->smarty->assign("page", $PAGE);
+		$this->smarty->assign('page', $PAGE);
 		if ($PAGE->_objects) {
 			foreach ($PAGE->_objects as $nam => $val) {
-				$this->smarty->assign($nam, $PAGE-> $val);
+				$this->smarty->assign($nam, $PAGE->$val);
 			}
 		}
-		$this->smarty->assign("handset", $HANDSET);
-		$this->smarty->load_filter("output", "trimwhitespace");
+		$this->smarty->assign('handset', $HANDSET);
+		$this->smarty->load_filter('output', 'trimwhitespace');
 		if ($this->cacheID == NULL) {
 			$this->smarty->display($this->template);
 		}

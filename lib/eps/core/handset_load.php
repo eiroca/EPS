@@ -1,13 +1,15 @@
 <?php
+
 /**
- * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.inc
+ * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.php
+ *
  * @author Enrico Croce & Simona Burzio (staff@eiroca.net)
- * @copyright Copyright (C) 2003-2010 eIrOcA - Enrico Croce & Simona Burzio
- * @version 0.5.1
+ * @copyright Copyright (C) 2003-2015 eIrOcA - Enrico Croce & Simona Burzio
+ * @version 0.5.2
  * @link http://www.eiroca.net
  */
 function _getHandsetInRegistry($ua) {
-	require_once (EPS_HANDSET_DIR . "handset_index.inc");
+	require_once (EPS_HANDSET_DIR . 'handset_index.inc');
 	foreach ($handset_index as $fileIndex) {
 		$uaf = $fileIndex[0];
 		if ($ua <= $uaf) {
@@ -16,7 +18,7 @@ function _getHandsetInRegistry($ua) {
 		}
 	}
 	include EPS_HANDSET_DIR . $fil;
-	include EPS_HANDSET_DIR . "handset_reg_def.inc";
+	include EPS_HANDSET_DIR . 'handset_reg_def.inc';
 	global $handset_default_class;
 	global $handset_default_path;
 	global $handset_registry;
@@ -40,9 +42,9 @@ function _getHandsetInRegistry($ua) {
 		$handset = $handset_default_class;
 		$path = $handset_default_path;
 	}
-	if (1==0) {
+	if (1 == 0) {
 		include EPS_HANDSET_DIR . $path;
-		$result = new $handset;
+		$result = new $handset();
 	}
 	else {
 		$result = new THandset(EPS_HANDSET_DIR . $path);

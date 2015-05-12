@@ -1,0 +1,8 @@
+AuthUserFile /opt/eiroca.net/data/users/httpd_users
+AuthGroupFile /dev/null
+AuthName "eIrOcA restricted area"
+AuthType Basic
+
+<Limit GET POST>
+require valid-user
+</Limit>

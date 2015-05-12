@@ -1,9 +1,11 @@
 <?php
+
 /**
- * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.inc
+ * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.php
+ *
  * @author Enrico Croce & Simona Burzio (staff@eiroca.net)
- * @copyright Copyright (C) 2003-2010 eIrOcA - Enrico Croce & Simona Burzio
- * @version 0.5.1
+ * @copyright Copyright (C) 2003-2015 eIrOcA - Enrico Croce & Simona Burzio
+ * @version 0.5.2
  * @link http://www.eiroca.net
  */
 function smarty_block_filter($params, $content, &$smarty) {
@@ -20,11 +22,10 @@ function smarty_block_filter($params, $content, &$smarty) {
 			}
 		}
 		array_push($_smart_filter_visible, $v);
-	} else {
+	}
+	else {
 		$v = array_pop($_smart_filter_visible);
-		if ($v == true) {
-			return $content;
-		}
+		if ($v == true) {return $content;}
 	}
 }
 ?>

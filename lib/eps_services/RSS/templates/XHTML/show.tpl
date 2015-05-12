@@ -14,13 +14,13 @@
       {filter handset="object_download_ringtone_mp3 1"}
         File di tipo: {$info.pod_type}{br}
         File di dimensione: {$info.pod_length}{br}{br}
-        Per scaricare il file clicka {link ref="rss_link"}
+        Per scaricare il file clicca {link ref="rss_link"}
       {/filter}
       {filter handset="object_download_ringtone_mp3 0"}
         Il tuo dispositivo non supporta il formato del file.
       {/filter}
     {else}
-      Per andare a leggere la notizia clicka {link ref="rss_link"}
+      Per andare a leggere la notizia clicca {link ref="rss_link"}
     {/if}
     {br}
     {link ref="rss_next"} {link ref="rss_prev"}

@@ -5,6 +5,6 @@
     {$rss->channel.description}.{br}
     {br}
     <small>{if $rss->channel.dc.rights}{$rss->channel.dc.rights}{br}{/if}</small>
-    Per andare su {$rss->channel.title} clicka {link ref="rss_link"}
+    Per andare su {$rss->channel.title} clicca {link ref="rss_link"}
   </p>
 {include file="footer.tpl" pt="pg"}
