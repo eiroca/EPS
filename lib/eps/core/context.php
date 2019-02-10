@@ -116,11 +116,11 @@ class TContext {
 	function processFilter($filter, $cond = null) {
 		require_once (EPS_CORE_DIR . 'context_filter.php');
 		if ($cond) {
-			$prm = split(' ', $cond);
+			$prm = explode(' ', $cond);
 			$cmd = '_filter_' . $filter;
 		}
 		else {
-			$prm = split(' ', $filter);
+			$prm = explode(' ', $filter);
 			$cmd = '_filter_' . array_shift($prm);
 		}
 		return $cmd($prm);

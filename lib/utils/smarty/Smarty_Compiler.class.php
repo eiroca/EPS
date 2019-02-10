@@ -2346,7 +2346,7 @@ class Smarty_Compiler extends Smarty {
  * @access private
  * @param string $a
  * @param string $b
- * @return 0|-1|1
+ * @return int 0|-1|1
  */
 function _smarty_sort_length($a, $b)
 {

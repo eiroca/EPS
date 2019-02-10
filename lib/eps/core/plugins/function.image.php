@@ -25,10 +25,10 @@ function cacheImage(& $image) {
 			$bn = $path_parts['basename'];
 			$ex = $path_parts['extension'];
 			$nam = substr($bn, 0, (strlen($bn) - strlen($ex) - 1)) . '.' . $image->format;
-			$nam = urlencode(ereg_replace(' ', '', $nam));
+			$nam = urlencode(str_replace(' ', '', $nam));
 		}
 		else {
-			$nam = urlencode(ereg_replace(' ', '', $path_parts['basename']));
+			$nam = urlencode(str_replace(' ', '', $path_parts['basename']));
 		}
 	}
 	$w = (int)$image->width;
