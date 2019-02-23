@@ -1,5 +1,5 @@
 EIROCA PORTAL SYSTEM - Framework to build Mobile site
-Copyright (C) 2003-2006 eIrOcA - Enrico Croce & Simona Burzio
+Copyright (C) 2003-2019 eIrOcA - Enrico Croce & Simona Burzio
 
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -25,6 +25,7 @@ PHP must have the GD extension enabled.
 INSTALLATION
 ============
 Copy the contents of the zip file in the the Apache's htdocs directory.
+Configure .htaccess in lib/eps in order to let administrators to access the directory.  
 Run a Web browser and type http://apache_domain/lib/eps/setup.php, you should see something like:
 
 Checking...

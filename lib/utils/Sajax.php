@@ -1,5 +1,5 @@
 <?php
-if (!isset ($SAJAX_INCLUDED)) {
+if (!isset($SAJAX_INCLUDED)) {
   /*
    * GLOBALS AND DEFAULTS
    *
@@ -10,6 +10,7 @@ if (!isset ($SAJAX_INCLUDED)) {
   $GLOBALS['sajax_request_type'] = 'GET';
   $GLOBALS['sajax_remote_uri'] = $_SERVER["REQUEST_URI"];
   $GLOBALS['sajax_failure_redirect'] = '';
+
   /*
    * CODE
    *
@@ -17,6 +18,7 @@ if (!isset ($SAJAX_INCLUDED)) {
   // Initialize the Sajax library.
   function sajax_init() {
   }
+
   //
   // Helper function to return an eval()-usable representation
   // of an object in JavaScript.
@@ -49,24 +51,22 @@ if (!isset ($SAJAX_INCLUDED)) {
         else
           $s .= "\"$esc_key\": " . sajax_get_js_repr($v) . ", ";
       }
-      if (count($value))
-        $s = substr($s, 0, -2);
+      if (count($value)) $s = substr($s, 0, -2);
       return $s . " }";
-    } else {
+    }
+    else {
       $esc_val = sajax_esc($value);
       $s = "'$esc_val'";
       return $s;
     }
   }
+
   function sajax_handle_client_request() {
     global $sajax_export_list;
     $mode = "";
-    if (!empty ($_GET["rs"]))
-      $mode = "get";
-    if (!empty ($_POST["rs"]))
-      $mode = "post";
-    if (empty ($mode))
-      return false;
+    if (!empty($_GET["rs"])) $mode = "get";
+    if (!empty($_POST["rs"])) $mode = "post";
+    if (empty($mode)) return false;
     $target = "";
     if ($mode == "get") {
       // Bust cache in the head
@@ -76,13 +76,14 @@ if (!isset ($SAJAX_INCLUDED)) {
       header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
       header("Pragma: no-cache"); // HTTP/1.0
       $func_name = $_GET["rs"];
-      if (!empty ($_GET["rsargs"]))
+      if (!empty($_GET["rsargs"]))
         $args = $_GET["rsargs"];
       else
         $args = array ();
-    } else {
+    }
+    else {
       $func_name = $_POST["rs"];
-      if (!empty ($_POST["rsargs"]))
+      if (!empty($_POST["rsargs"]))
         $args = $_POST["rsargs"];
       else
         $args = array ();
@@ -96,6 +97,7 @@ if (!isset ($SAJAX_INCLUDED)) {
     }
     return true;
   }
+
   function sajax_get_common_js() {
     global $sajax_debug_mode;
     global $sajax_request_type;
@@ -104,7 +106,7 @@ if (!isset ($SAJAX_INCLUDED)) {
     $t = strtoupper($sajax_request_type);
     if ($t != "" && $t != "GET" && $t != "POST") return "// Invalid type: $t.. \n\n";
     ob_start();
-?>
+    ?>
 		// remote scripting library
 		// (c) copyright 2005 modernmethod, inc
 		var sajax_debug_mode = <?php echo $sajax_debug_mode ? "true" : "false"; ?>;
@@ -253,9 +255,11 @@ if (!isset ($SAJAX_INCLUDED)) {
     ob_end_clean();
     return $html;
   }
+
   function sajax_show_common_js() {
     echo sajax_get_common_js();
   }
+
   // javascript escape a value
   function sajax_esc($val) {
     $val = str_replace("\\", "\\\\", $val);
@@ -264,9 +268,10 @@ if (!isset ($SAJAX_INCLUDED)) {
     $val = str_replace("'", "\\'", $val);
     return str_replace('"', '\\"', $val);
   }
+
   function sajax_get_one_stub($func_name) {
     ob_start();
-?>
+    ?>
 		function x_<?php echo $func_name; ?>() {
 			sajax_do_call("<?php echo $func_name; ?>", x_<?php echo $func_name; ?>.arguments);
 		}
@@ -276,9 +281,11 @@ if (!isset ($SAJAX_INCLUDED)) {
     ob_end_clean();
     return $html;
   }
+
   function sajax_show_one_stub($func_name) {
     echo sajax_get_one_stub($func_name);
   }
+
   function sajax_export() {
     global $sajax_export_list;
     $n = func_num_args();
@@ -287,6 +294,7 @@ if (!isset ($SAJAX_INCLUDED)) {
     }
   }
   $sajax_js_has_been_shown = 0;
+
   function sajax_get_javascript() {
     global $sajax_js_has_been_shown;
     global $sajax_export_list;
@@ -300,6 +308,7 @@ if (!isset ($SAJAX_INCLUDED)) {
     }
     return $html;
   }
+
   function sajax_show_javascript() {
     echo sajax_get_javascript();
   }

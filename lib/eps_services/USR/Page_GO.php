@@ -4,26 +4,27 @@
  * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.php
  *
  * @author Enrico Croce & Simona Burzio (staff@eiroca.net)
- * @copyright Copyright (C) 2003-2015 eIrOcA - Enrico Croce & Simona Burzio
- * @version 0.5.2
+ * @copyright Copyright (C) 2003-2019 eIrOcA - Enrico Croce & Simona Burzio
+ * @version 0.5.3
  * @link http://www.eiroca.net
  */
 class Page extends TPage {
 
-	function Page(& $res) {
-		parent::TPage($res);
-	}
+  function Page(& $res) {
+    parent::TPage($res);
+  }
 
-	function getTemplate() {
-		return 'go';
-	}
+  function getTemplate() {
+    return 'go';
+  }
 
-	function getTitle() {
-		return 'eIrOcA';
-	}
+  function getTitle() {
+    return 'eIrOcA';
+  }
 
-	function getName() {
-		return 'Log-In Service';
-	}
+  function getName() {
+    return 'Log-In Service';
+  }
+
 }
 ?>

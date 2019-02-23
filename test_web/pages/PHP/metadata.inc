@@ -1,22 +1,26 @@
 <?php
 /**
- * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.inc
+ * EIROCA PORTAL SYSTEM - Framework to build Mobile site - GPL3 - See licence in eps.php
+ *
  * @author Enrico Croce & Simona Burzio (staff@eiroca.net)
- * @copyright Copyright (C) 2003-2010 eIrOcA - Enrico Croce & Simona Burzio
- * @version 0.5.1
+ * @copyright Copyright (C) 2003-2019 eIrOcA - Enrico Croce & Simona Burzio
+ * @version 0.5.3
  * @link http://www.eiroca.net
  */
 global $DATA;
 $DATA["title"] = "PHP Development";
 $DATA["message"] = "best viewed 800x600";
-$DATA["last_modify"]="1 Mar 2999";
+$DATA["last_modify"] = "1 Mar 2999";
 $DATA["copyright_url"] = "index.php";
 $DATA["copyright_caption"] = "Copyright (c) 2002-2008";
 $DATA["sitemap_allow"] = true;
 $DATA["sitemap_priority"] = 0.5;
 global $MENU;
 $MENU = array (
-array ("caption" => "eIrOcA Portal System", "url" => "index.php?page=PHP_EPS"),
-array ("caption" => "Main menu",    				"url" => "index.php")
+    array (
+        "caption" => "eIrOcA Portal System", "url" => "index.php?page=PHP_EPS"
+    ), array (
+        "caption" => "Main menu", "url" => "index.php"
+    )
 );
 ?>
